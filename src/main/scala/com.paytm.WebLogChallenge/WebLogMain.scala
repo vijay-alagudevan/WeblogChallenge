@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory
   */
 
 object WebLogMain extends App {
-  @transient lazy val LOGR = LoggerFactory.getLogger(getClass.getName)
+  lazy val LOGR = LoggerFactory.getLogger(getClass.getName)
 
   val commandLineArguments = args.toList
   LOGR.warn(s"Command line arguments = ${commandLineArguments.mkString(" ; ")}")

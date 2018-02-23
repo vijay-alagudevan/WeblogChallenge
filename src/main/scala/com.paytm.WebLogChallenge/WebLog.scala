@@ -3,7 +3,7 @@ package com.paytm.WebLogChallenge
 import org.apache.spark
 import org.apache.spark.sql.{DataFrame, SQLContext}
 import org.apache.spark.sql.expressions.Window
-import org.apache.spark.sql.functions.{lag}
+import org.apache.spark.sql.functions.lag
 import org.apache.spark.sql.functions._
 import java.sql.Timestamp
 import java.text.SimpleDateFormat
@@ -47,7 +47,7 @@ class WebLog extends WebLogHelper with Serializable {
     import sqlContext.implicits._
 
     val regexLogSplit = " (?=([^\"]*\"[^\"]*\")*[^\"]*$)"
-    val timestampformat = "yyyy-MM-dd'T'HH:mm:ss.SSSSSS'Z'"
+    val timeStampFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSSSS'Z'"
 
     val rdd = sqlContext.sparkContext.textFile(filePath)
 
@@ -55,7 +55,7 @@ class WebLog extends WebLogHelper with Serializable {
       .filter(line => line.split(regexLogSplit).length >= 15)
       .map({ log =>
         val entry = log.split(regexLogSplit)
-        val sdf = new SimpleDateFormat(timestampformat)
+        val sdf = new SimpleDateFormat(timeStampFormat)
         val timestamp = new Timestamp(sdf.parse(entry(0)).getTime());
 
         AccessLogEntries(timestamp, entry(2).split(":")(0), entry(4).toFloat, entry(5).toFloat, entry(6).toFloat, entry(11).split(" ")(1))

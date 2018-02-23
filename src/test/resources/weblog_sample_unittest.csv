@@ -1,0 +1,1001 @@
+timestamp,client,request_processing_time,backend_processing_time,response_processing_time,request,total_processing_time,previous_timestamp,session_counter,session_id
+2015-07-22 16:11:03.649,1.186.34.10,2.2E-5,0.005663,2.2E-5,https://paytm.com:443/offer,0.0057070004,,1,1
+2015-07-22 16:12:48.58,1.186.34.10,2.1E-5,0.003216,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/css/flexslider.css?ver=4.2.2,0.003257,2015-07-22 16:11:03.649,0,1
+2015-07-22 16:12:48.723,1.186.34.10,1.9E-5,0.003166,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=4.2.2,0.0032039997,2015-07-22 16:12:48.58,0,1
+2015-07-22 16:12:53.192,1.186.34.10,2.1E-5,0.003114,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3,0.0031549998,2015-07-22 16:12:48.723,0,1
+2015-07-22 16:12:56.144,1.186.34.10,2.0E-5,0.00331,2.6E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.2.2,0.003356,2015-07-22 16:12:53.192,0,1
+2015-07-22 16:12:56.466,1.186.34.10,1.8E-5,0.003197,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.26,0.0032339997,2015-07-22 16:12:56.144,0,1
+2015-07-22 16:12:57.564,1.186.34.10,1.8E-5,0.001055,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9,0.0010940001,2015-07-22 16:12:56.466,0,1
+2015-07-22 16:13:36.848,1.186.34.10,2.4E-5,0.003317,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/flexslider/flexslider.css?ver=2.2.0,0.00336,2015-07-22 16:12:57.564,0,1
+2015-07-22 16:13:36.885,1.186.34.10,2.5E-5,0.003129,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.carousel.min.css?ver=2.0.0,0.003175,2015-07-22 16:13:36.848,0,1
+2015-07-22 16:13:40.918,1.186.34.10,2.4E-5,0.003408,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.theme.default.css?ver=2.0.0,0.0034470002,2015-07-22 16:13:36.885,0,1
+2015-07-22 16:13:44.904,1.186.34.10,2.2E-5,0.003648,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/slider-plus-lightbox-style.css?ver=4.2.2,0.00369,2015-07-22 16:13:40.918,0,1
+2015-07-22 16:13:44.966,1.186.34.10,1.8E-5,0.00315,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/jquery.lbox.css?ver=4.2.2,0.0031899998,2015-07-22 16:13:44.904,0,1
+2015-07-22 16:13:45.494,1.186.34.10,1.9E-5,0.003656,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/images-responsive-thumbnail-slider-plus-lighbox-style.css?ver=4.2.2,0.0036949997,2015-07-22 16:13:44.966,0,1
+2015-07-22 16:14:25.508,1.186.34.10,2.0E-5,0.00323,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/l-box-css.css?ver=4.2.2,0.0032699998,2015-07-22 16:13:45.494,0,1
+2015-07-22 16:14:25.621,1.186.34.10,1.9E-5,7.58E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/wpt-slide.css?ver=4.2.2,7.9699996E-4,2015-07-22 16:14:25.508,0,1
+2015-07-22 16:14:58.343,1.186.34.10,2.2E-5,0.003156,1.5E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/style.css?ver=4.2.2,0.003193,2015-07-22 16:14:25.621,0,1
+2015-07-22 16:14:58.473,1.186.34.10,2.0E-5,7.21E-4,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.3,7.56E-4,2015-07-22 16:14:58.343,0,1
+2015-07-22 16:14:58.753,1.186.34.10,1.9E-5,0.003194,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.2.2,0.003233,2015-07-22 16:14:58.473,0,1
+2015-07-22 16:14:59.661,1.186.34.10,2.2E-5,0.003086,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.2.2,0.0031269998,2015-07-22 16:14:58.753,0,1
+2015-07-22 16:15:31.951,1.186.34.10,2.2E-5,7.15E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.2.2,7.5699994E-4,2015-07-22 16:14:59.661,0,1
+2015-07-22 16:15:32.032,1.186.34.10,1.9E-5,7.36E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/styles.css?ver=4.2.2,7.75E-4,2015-07-22 16:15:31.951,0,1
+2015-07-22 16:15:43.768,1.186.34.10,2.0E-5,0.003178,1.3E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.2.2,0.003211,2015-07-22 16:15:32.032,0,1
+2015-07-22 16:15:45.642,1.186.34.10,2.0E-5,0.003299,1.7E-5,https://paytm.com:443/offer/wp-content/uploads/2015/01/bootstrap.min_.css,0.0033359998,2015-07-22 16:15:43.768,0,1
+2015-07-22 16:15:46.557,1.186.34.10,2.0E-5,6.94E-4,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/01/style.css,7.33E-4,2015-07-22 16:15:45.642,0,1
+2015-07-22 16:15:48.236,1.186.34.10,2.2E-5,6.44E-4,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/slider-pro.min_.css,6.85E-4,2015-07-22 16:15:46.557,0,1
+2015-07-22 16:16:17.153,1.186.34.10,2.2E-5,7.55E-4,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/examples.css,7.9699996E-4,2015-07-22 16:15:48.236,0,1
+2015-07-22 16:16:17.487,1.186.34.10,2.0E-5,0.00314,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/jcarouselresponsive.css?ver=4.2.2,0.0031799998,2015-07-22 16:16:17.153,0,1
+2015-07-22 16:16:34.949,1.186.34.10,2.1E-5,6.87E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/style-admin.css?ver=4.2.2,7.2999997E-4,2015-07-22 16:16:17.487,0,1
+2015-07-22 16:16:37.407,1.186.34.10,2.0E-5,0.003124,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/js/jquery.flexslider-min.js?ver=4.2.2,0.0031639999,2015-07-22 16:16:34.949,0,1
+2015-07-22 16:16:37.817,1.186.34.10,1.9E-5,7.2E-4,1.5E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4,7.5400004E-4,2015-07-22 16:16:37.407,0,1
+2015-07-22 16:16:38.679,1.186.34.10,2.1E-5,7.63E-4,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4,8.0399995E-4,2015-07-22 16:16:37.817,0,1
+2015-07-22 16:17:02.339,1.186.34.10,2.2E-5,0.003112,1.3E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.003147,2015-07-22 16:16:38.679,0,1
+2015-07-22 16:17:09.205,1.186.34.10,2.1E-5,6.67E-4,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1,7.12E-4,2015-07-22 16:17:02.339,0,1
+2015-07-22 16:17:21.924,1.186.34.10,2.1E-5,0.003057,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.0030989998,2015-07-22 16:17:09.205,0,1
+2015-07-22 16:17:24.929,1.186.34.10,2.2E-5,7.09E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=3.8,7.5099996E-4,2015-07-22 16:17:21.924,0,1
+2015-07-22 16:17:27.872,1.186.34.10,2.3E-5,0.003139,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/slider-plus-lightbox-js.js?ver=4.2.2,0.0031819998,2015-07-22 16:17:24.929,0,1
+2015-07-22 16:17:27.935,1.186.34.10,1.9E-5,0.003186,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.2.2,0.0032249999,2015-07-22 16:17:27.872,0,1
+2015-07-22 16:17:53.288,1.186.34.10,1.9E-5,0.003209,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/jquery.lbox.min.js?ver=4.2.2,0.0032479998,2015-07-22 16:17:27.935,0,1
+2015-07-22 16:17:54.343,1.186.34.10,2.1E-5,0.003137,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/images-responsive-thumbnail-slider-plus-lightbox-jc.js?ver=4.2.2,0.0031779998,2015-07-22 16:17:53.288,0,1
+2015-07-22 16:18:13.204,1.186.34.10,2.2E-5,7.05E-4,2.6E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/l-box-js.js?ver=4.2.2,7.5300003E-4,2015-07-22 16:17:54.343,0,1
+2015-07-22 16:18:13.285,1.186.34.10,1.9E-5,0.003056,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/js/wpt-js.js?ver=4.2.2,0.0030959998,2015-07-22 16:18:13.204,0,1
+2015-07-22 16:18:16.454,1.186.34.10,2.0E-5,0.003158,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js?ver=4.2.2,0.003199,2015-07-22 16:18:13.285,0,1
+2015-07-22 16:18:17.579,1.186.34.10,2.0E-5,0.003088,1.4E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jcarousel.responsive.js?ver=4.2.2,0.003122,2015-07-22 16:18:16.454,0,1
+2015-07-22 16:18:40.601,1.186.34.10,2.3E-5,8.47E-4,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.2.2,8.85E-4,2015-07-22 16:18:17.579,0,1
+2015-07-22 16:18:41.197,1.186.34.10,2.0E-5,8.38E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/script.js?ver=4.2.2,8.7999995E-4,2015-07-22 16:18:40.601,0,1
+2015-07-22 16:18:59.759,1.186.34.10,2.4E-5,7.11E-4,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/jquery.sliderPro.min_.js,7.56E-4,2015-07-22 16:18:41.197,0,1
+2015-07-22 16:19:02.725,1.186.34.10,2.3E-5,6.91E-4,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20,7.35E-4,2015-07-22 16:18:59.759,0,1
+2015-07-22 16:19:06.549,1.186.34.10,2.2E-5,6.81E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3,7.23E-4,2015-07-22 16:19:02.725,0,1
+2015-07-22 16:19:08.523,1.186.34.10,1.9E-5,6.86E-4,1.9E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4,7.2400004E-4,2015-07-22 16:19:06.549,0,1
+2015-07-22 16:19:26.253,1.186.34.10,2.3E-5,7.2E-4,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4,7.64E-4,2015-07-22 16:19:08.523,0,1
+2015-07-22 16:19:26.976,1.186.34.10,1.9E-5,0.003105,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4,0.0031439997,2015-07-22 16:19:26.253,0,1
+2015-07-22 16:19:46.127,1.186.34.10,2.4E-5,8.66E-4,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4,9.11E-4,2015-07-22 16:19:26.976,0,1
+2015-07-22 16:19:48.78,1.186.34.10,2.1E-5,0.003159,1.5E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4,0.003195,2015-07-22 16:19:46.127,0,1
+2015-07-22 16:19:53.507,1.186.34.10,2.2E-5,0.003196,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4,0.0032389998,2015-07-22 16:19:48.78,0,1
+2015-07-22 16:19:57.702,1.186.34.10,2.2E-5,0.003091,1.5E-5,https://paytm.com:443/offer/wp-includes/js/masonry.min.js?ver=3.1.2,0.003128,2015-07-22 16:19:53.507,0,1
+2015-07-22 16:20:15.521,1.186.34.10,2.3E-5,0.003102,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2,0.003145,2015-07-22 16:19:57.702,0,1
+2015-07-22 16:20:19.116,1.186.34.10,2.4E-5,6.83E-4,2.0E-5,https://paytm.com:443/offer/wp-includes/js/comment-reply.min.js?ver=4.2.2,7.27E-4,2015-07-22 16:20:15.521,0,1
+2015-07-22 16:20:36.086,1.186.34.10,2.2E-5,6.93E-4,2.0E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318,7.3499995E-4,2015-07-22 16:20:19.116,0,1
+2015-07-22 16:20:40.38,1.186.34.10,2.2E-5,6.44E-4,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.3,6.86E-4,2015-07-22 16:20:36.086,0,1
+2015-07-22 16:20:44.235,1.186.34.10,2.2E-5,6.59E-4,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.2.2,7.0E-4,2015-07-22 16:20:40.38,0,1
+2015-07-22 16:20:49.267,1.186.34.10,2.5E-5,6.8E-4,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/qas.jpg,7.26E-4,2015-07-22 16:20:44.235,0,1
+2015-07-22 16:21:30.532,1.186.34.10,2.5E-5,0.003134,1.4E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/julqw.jpg,0.0031730002,2015-07-22 16:20:49.267,0,1
+2015-07-22 16:21:30.607,1.186.34.10,2.5E-5,0.00339,1.5E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/bargain.jpg,0.00343,2015-07-22 16:21:30.532,0,1
+2015-07-22 16:21:30.724,1.186.34.10,2.1E-5,6.69E-4,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/kitch11.jpg,7.1299996E-4,2015-07-22 16:21:30.607,0,1
+2015-07-22 16:21:30.785,1.186.34.10,1.9E-5,7.1E-4,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/pesoal.jpg,7.4999995E-4,2015-07-22 16:21:30.724,0,1
+2015-07-22 16:21:30.879,1.186.34.10,2.0E-5,7.11E-4,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/autom.jpg,7.5E-4,2015-07-22 16:21:30.785,0,1
+2015-07-22 16:21:36.826,1.186.34.10,2.3E-5,0.003083,1.5E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/470X220_books.jpg,0.003121,2015-07-22 16:21:30.879,0,1
+2015-07-22 16:22:16.525,1.186.34.10,2.1E-5,7.11E-4,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/bb.png,7.5199996E-4,2015-07-22 16:21:36.826,0,1
+2015-07-22 16:22:16.884,1.186.34.10,2.0E-5,0.003197,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/470x220_19july.jpg,0.0032369997,2015-07-22 16:22:16.525,0,1
+2015-07-22 16:22:17.083,1.186.34.10,2.0E-5,6.79E-4,2.0E-5,https://paytm.com:443/offer/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2,7.1899995E-4,2015-07-22 16:22:16.884,0,1
+2015-07-22 16:22:32.376,1.186.34.10,2.3E-5,7.21E-4,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/meruwer_1.jpg,7.64E-4,2015-07-22 16:22:17.083,0,1
+2015-07-22 16:22:32.548,1.186.34.10,2.0E-5,7.87E-4,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/offer-page_21july.jpg,8.26E-4,2015-07-22 16:22:32.376,0,1
+2015-07-22 16:22:33.272,1.186.34.10,2.1E-5,0.003168,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/cc.png,0.0032079997,2015-07-22 16:22:32.548,0,1
+2015-07-22 16:23:01.959,1.186.34.10,2.5E-5,7.23E-4,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/offer-page_20jul.jpg,7.69E-4,2015-07-22 16:22:33.272,0,1
+2015-07-22 16:23:02.654,1.186.34.10,2.0E-5,0.003135,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/specificfeeds_follow.png,0.0031749997,2015-07-22 16:23:01.959,0,1
+2015-07-22 16:23:27.092,1.186.34.10,2.4E-5,0.003154,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/ledq.jpg,0.003197,2015-07-22 16:23:02.654,0,1
+2015-07-22 16:23:27.525,1.186.34.10,2.1E-5,7.47E-4,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/ggg.jpg,7.8799995E-4,2015-07-22 16:23:27.092,0,1
+2015-07-22 16:23:27.771,1.186.34.10,1.9E-5,0.003548,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/main_sports_health_14jul.jpg,0.0035859998,2015-07-22 16:23:27.525,0,1
+2015-07-22 16:25:09.547,1.186.34.10,2.2E-5,0.001134,2.2E-5,https://paytm.com:443/favicon.ico,0.0011780001,2015-07-22 16:23:27.771,0,1
+2015-07-22 10:39:01.796,1.186.38.25,2.5E-5,0.013816,4.1E-5,https://paytm.com:443/papi/v1/promosearch/product/5323210/offers?parent_id=null,0.013882,,1,1
+2015-07-22 10:53:37.766,1.186.38.25,3.0E-5,0.017471,3.3E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=56558&channel=web&version=2,0.017534,2015-07-22 10:39:01.796,0,1
+2015-07-22 10:53:55.671,1.186.38.25,2.3E-5,0.007887,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/10930818/offers?parent_id=0&price=965&channel=web&version=2,0.007932,2015-07-22 10:53:37.766,0,1
+2015-07-22 10:54:04.146,1.186.38.25,2.4E-5,0.00937,2.2E-5,https://paytm.com:443/papi/rr/products/10930818/statistics?channel=web&version=2,0.009416,2015-07-22 10:53:55.671,0,1
+2015-07-22 18:07:28.503,1.186.38.25,2.3E-5,0.004349,1.5E-5,https://paytm.com:443/shop/h/electronics?utm_term=1,0.0043869996,2015-07-22 10:54:04.146,1,2
+2015-07-22 16:32:11.588,1.187.128.255,2.4E-5,0.001052,1.7E-5,http://www.paytm.com:80/,0.0010929999,,1,1
+2015-07-22 16:48:23.53,1.22.106.33,2.3E-5,0.057688,1.9E-5,https://paytm.com:443/shop/cart,0.05773,,1,1
+2015-07-22 16:48:34.965,1.22.106.33,2.2E-5,0.004759,2.3E-5,https://paytm.com:443/shop/h/electronics?utm_source=Affiliates&utm_medium=OMG&utm_campaign=OMG&utm_term=183476_CHKR5747615,0.0048040003,2015-07-22 16:48:23.53,0,1
+2015-07-22 16:48:53.503,1.22.106.33,2.4E-5,0.006427,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=21608&channel=web&version=2,0.006472,2015-07-22 16:48:34.965,0,1
+2015-07-22 16:50:14.968,1.22.106.33,3.4E-5,0.004788,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/9087027/offers?parent_id=1833132&price=1429&channel=web&version=2,0.004843,2015-07-22 16:48:53.503,0,1
+2015-07-22 16:50:30.978,1.22.106.33,2.5E-5,0.009167,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009213001,2015-07-22 16:50:14.968,0,1
+2015-07-22 16:51:34.365,1.22.106.33,2.5E-5,0.005196,1.9E-5,https://paytm.com:443/papi/rr/products/9087027/statistics?channel=web&version=2,0.00524,2015-07-22 16:50:30.978,0,1
+2015-07-22 16:51:37.725,1.22.106.33,2.0E-5,0.166693,2.0E-5,https://paytm.com:443/shop/cart/checkout?channel=web&version=2,0.166733,2015-07-22 16:51:34.365,0,1
+2015-07-22 16:52:33.945,1.22.106.33,2.3E-5,0.114004,2.4E-5,https://paytm.com:443/shop/cart,0.114051,2015-07-22 16:51:37.725,0,1
+2015-07-22 16:52:34.164,1.22.106.33,2.3E-5,0.020481,2.1E-5,https://paytm.com:443/shop/user/address?channel=web&version=2,0.020525,2015-07-22 16:52:33.945,0,1
+2015-07-22 16:54:33.97,1.22.106.33,2.4E-5,0.093955,2.1E-5,https://paytm.com:443/shop/cart,0.094000004,2015-07-22 16:52:34.164,0,1
+2015-07-22 17:00:25.729,1.22.106.33,2.6E-5,0.028572,2.6E-5,https://paytm.com:443/shop/cart,0.028624002,2015-07-22 16:54:33.97,0,1
+2015-07-22 16:45:47.654,1.22.135.123,2.5E-5,0.040953,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.041,,1,1
+2015-07-22 16:46:17.504,1.22.135.123,2.2E-5,0.001073,2.1E-5,https://paytm.com:443/favicon.ico,0.0011160001,2015-07-22 16:45:47.654,0,1
+2015-07-22 16:46:41.751,1.22.135.123,2.4E-5,0.007467,2.2E-5,https://paytm.com:443/papi/rr/products/13149214/statistics?channel=web&version=2,0.007513,2015-07-22 16:46:17.504,0,1
+2015-07-22 16:57:13.049,1.22.135.123,2.3E-5,0.005834,1.7E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=4&channel=web&version=2,0.005874,2015-07-22 16:46:41.751,0,1
+2015-07-22 16:58:41.138,1.22.135.123,2.1E-5,0.005093,2.2E-5,https://paytm.com:443/shop/p/get-30-off-DEAGET-30-OFFPAYT4458D5F97,0.005136,2015-07-22 16:57:13.049,0,1
+2015-07-22 17:00:36.742,1.22.135.123,2.3E-5,0.002815,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/13149214/offers?parent_id=0&price=5&channel=web&version=2,0.00286,2015-07-22 16:58:41.138,0,1
+2015-07-22 06:58:26.496,1.22.251.205,2.3E-5,0.003288,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/4246285/offers?parent_id=252017,0.0033329998,,1,1
+2015-07-22 06:59:50.004,1.22.251.205,2.1E-5,0.003815,2.1E-5,https://paytm.com:443/shop/p/wd-elements-1tb-usb-3-0-external-hard-drive-black-WD_WDBUZG0010BBK_1TB_BLACK_22225,0.0038569998,2015-07-22 06:58:26.496,0,1
+2015-07-22 07:06:59.566,1.22.251.205,2.5E-5,0.011327,2.2E-5,https://paytm.com:443/shop/cart,0.011374,2015-07-22 06:59:50.004,0,1
+2015-07-22 16:20:17.615,1.22.46.157,2.6E-5,0.020776,1.9E-5,https://paytm.com:443/shop/log,0.020821001,,1,1
+2015-07-22 16:23:12.22,1.22.46.157,2.1E-5,0.019973,2.0E-5,https://paytm.com:443/shop/log,0.020014,2015-07-22 16:20:17.615,0,1
+2015-07-22 09:12:28.166,1.23.173.98,2.4E-5,0.001791,2.2E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.001837,,1,1
+2015-07-22 09:20:46.733,1.23.173.98,2.2E-5,0.033778,2.2E-5,https://paytm.com:443/shop/cart,0.033822004,2015-07-22 09:12:28.166,0,1
+2015-07-22 09:05:42.533,1.23.194.8,2.2E-5,0.011875,2.2E-5,https://paytm.com:443/shop/cart,0.011918999,,1,1
+2015-07-22 09:08:45.74,1.23.194.8,2.5E-5,0.004586,2.1E-5,https://paytm.com:443/?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.004632,2015-07-22 09:05:42.533,0,1
+2015-07-22 09:11:24.477,1.23.194.8,2.4E-5,0.01087,1.5E-5,https://paytm.com:443/shop/cart,0.010909,2015-07-22 09:08:45.74,0,1
+2015-07-22 09:12:35.777,1.23.194.8,2.3E-5,0.005096,1.5E-5,https://paytm.com:443/?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.005134,2015-07-22 09:11:24.477,0,1
+2015-07-22 02:46:14.109,1.23.199.3,3.3E-5,0.004163,2.3E-5,https://paytm.com:443/bus-tickets?utm_source=affiliates&utm_medium=dgm&utm_campaign=dgm-generic&utm_term=65666,0.0042189998,,1,1
+2015-07-22 17:44:41.419,1.23.32.120,2.3E-5,0.003003,2.1E-5,https://paytm.com:443/,0.003047,,1,1
+2015-07-22 17:47:30.997,1.23.32.120,2.3E-5,0.009406,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009451,2015-07-22 17:44:41.419,0,1
+2015-07-22 18:01:36.842,1.23.32.120,2.4E-5,0.005428,2.0E-5,https://paytm.com:443/papi/rr/products/15897003/statistics?channel=web&version=2,0.005472,2015-07-22 17:47:30.997,0,1
+2015-07-22 18:03:00.913,1.23.32.120,2.2E-5,0.012501,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/17508233/offers?parent_id=12062978&price=1059&channel=web&version=2,0.012545,2015-07-22 18:01:36.842,0,1
+2015-07-22 18:09:04.335,1.23.32.120,2.4E-5,0.005462,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=28033&channel=web&version=2,0.0055080005,2015-07-22 18:03:00.913,0,1
+2015-07-22 18:09:28.629,1.23.32.120,2.1E-5,0.003945,1.5E-5,https://paytm.com:443/shop/p/rozdeal-orange-georgette-anarkali-suit-dress-material-APPROZDEAL-ORANSHRE705509C6FCC16,0.003981,2015-07-22 18:09:04.335,0,1
+2015-07-22 18:09:29.151,1.23.32.120,2.0E-5,0.011056,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011096001,2015-07-22 18:09:28.629,0,1
+2015-07-22 18:10:00.377,1.23.32.120,2.3E-5,0.004746,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=56419&channel=web&version=2,0.0047899997,2015-07-22 18:09:29.151,0,1
+2015-07-22 18:10:16.799,1.23.32.120,2.4E-5,0.004881,2.0E-5,https://paytm.com:443/papi/rr/products/17508233/statistics?channel=web&version=2,0.0049250005,2015-07-22 18:10:00.377,0,1
+2015-07-22 18:12:31.947,1.23.32.120,2.2E-5,0.005191,2.1E-5,https://paytm.com:443/shop/p/hiba-black-polyester-semi-stitched-suit-501-APPHIBA-BLACK-PSANT4870163214ADE,0.0052340003,2015-07-22 18:10:16.799,0,1
+2015-07-22 18:13:17.977,1.23.32.120,2.2E-5,0.004554,2.0E-5,https://paytm.com:443/shop/p/vaikunth-fabrics-brown-jacquard-semi-stiched-suit-APPVAIKUNTH-FABVAIK2803337FFFFE4,0.0045960005,2015-07-22 18:12:31.947,0,1
+2015-07-22 18:13:23.762,1.23.32.120,2.1E-5,0.005547,2.4E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=48701&channel=web&version=2,0.005592,2015-07-22 18:13:17.977,0,1
+2015-07-22 18:15:32.753,1.23.32.120,2.3E-5,0.00609,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=70550&channel=web&version=2,0.006135,2015-07-22 18:13:23.762,0,1
+2015-07-22 18:16:07.914,1.23.32.120,2.7E-5,0.012097,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.012146,2015-07-22 18:15:32.753,0,1
+2015-07-22 18:16:29.642,1.23.32.120,2.4E-5,0.010492,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.010537,2015-07-22 18:16:07.914,0,1
+2015-07-22 18:16:30.787,1.23.32.120,2.3E-5,0.011579,1.6E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011618,2015-07-22 18:16:29.642,0,1
+2015-07-22 18:17:10.581,1.23.32.120,2.3E-5,0.010465,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/15897003/offers?parent_id=13491635&price=1990&channel=web&version=2,0.010509,2015-07-22 18:16:30.787,0,1
+2015-07-22 18:17:19.916,1.23.32.120,2.4E-5,0.003354,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/6634130/offers?parent_id=13071191&price=1399&channel=web&version=2,0.0033999998,2015-07-22 18:17:10.581,0,1
+2015-07-22 18:17:54.586,1.23.32.120,2.3E-5,0.005957,2.0E-5,https://paytm.com:443/papi/rr/products/6634130/statistics?channel=web&version=2,0.006,2015-07-22 18:17:19.916,0,1
+2015-07-22 18:18:24.322,1.23.32.120,2.3E-5,0.005357,1.9E-5,https://paytm.com:443/papi/v1/promosearch/product/17439663/offers?parent_id=12062810&price=1143&channel=web&version=2,0.005399,2015-07-22 18:17:54.586,0,1
+2015-07-22 18:18:55.394,1.23.32.120,2.2E-5,0.004581,2.2E-5,https://paytm.com:443/shop/p/fabfiza-blue-georgette-semi-stitched-suit-APPFABFIZA-BLUEKAVY564192EBABBF,0.0046250005,2015-07-22 18:18:24.322,0,1
+2015-07-22 18:19:00.338,1.23.32.120,2.2E-5,0.007092,2.0E-5,https://paytm.com:443/papi/rr/products/17439663/statistics?channel=web&version=2,0.0071340003,2015-07-22 18:18:55.394,0,1
+2015-07-22 18:01:43.595,1.23.43.32,2.7E-5,0.006094,2.3E-5,https://paytm.com:443/papi/nps/merchantverification,0.0061439998,,1,1
+2015-07-22 18:02:10.357,1.23.43.32,2.1E-5,0.022053,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.022094999,2015-07-22 18:01:43.595,0,1
+2015-07-22 18:02:22.654,1.23.43.32,2.4E-5,0.044385,2.1E-5,https://paytm.com:443/shop/cart,0.04443,2015-07-22 18:02:10.357,0,1
+2015-07-22 18:04:13.471,1.23.43.32,2.6E-5,0.035823,2.1E-5,https://paytm.com:443/shop/cart,0.035869997,2015-07-22 18:02:22.654,0,1
+2015-07-22 18:04:43.08,1.23.43.32,2.5E-5,0.0755,2.0E-5,https://paytm.com:443/shop/wallet/txnhistory?page_size=10&page_number=0&channel=web&version=2,0.07554499,2015-07-22 18:04:13.471,0,1
+2015-07-22 18:04:46.882,1.23.43.32,2.3E-5,0.026445,2.1E-5,https://paytm.com:443/shop/orderhistory?pagesize=10&channel=web&version=2,0.026488999,2015-07-22 18:04:43.08,0,1
+2015-07-22 18:04:56.391,1.23.43.32,2.4E-5,0.067842,2.8E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.067894,2015-07-22 18:04:46.882,0,1
+2015-07-22 18:05:01.122,1.23.43.32,2.3E-5,0.269562,1.9E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.26960403,2015-07-22 18:04:56.391,0,1
+2015-07-22 18:05:07.507,1.23.43.32,2.5E-5,0.004722,2.0E-5,https://paytm.com:443/shop/summary/1118077323,0.004767,2015-07-22 18:05:01.122,0,1
+2015-07-22 18:07:44.822,1.23.43.32,2.0E-5,0.067208,2.3E-5,https://paytm.com:443/shop/cart/checkout?channel=web&version=2,0.067251,2015-07-22 18:05:07.507,0,1
+2015-07-22 18:08:05.137,1.23.43.32,2.3E-5,0.025205,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.025249999,2015-07-22 18:07:44.822,0,1
+2015-07-22 18:10:25.625,1.23.43.32,2.3E-5,0.025743,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.025789,2015-07-22 18:08:05.137,0,1
+2015-07-22 18:10:29.448,1.23.43.32,2.3E-5,0.033812,2.0E-5,https://paytm.com:443/shop/cart,0.033855002,2015-07-22 18:10:25.625,0,1
+2015-07-22 18:13:47.1,1.23.43.32,4.8E-5,0.026657,2.0E-5,https://paytm.com:443/shop/orderdetail/1096762940?actions=1&channel=web&version=2,0.026725,2015-07-22 18:10:29.448,0,1
+2015-07-22 18:14:07.313,1.23.43.32,2.3E-5,0.009854,3.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009909,2015-07-22 18:13:47.1,0,1
+2015-07-22 18:15:07.475,1.23.43.32,2.4E-5,0.02615,1.5E-5,https://paytm.com:443/shop/orderdetail/1118077323?channel=web&version=2,0.026189,2015-07-22 18:14:07.313,0,1
+2015-07-22 18:15:14.391,1.23.43.32,2.3E-5,0.017249,2.3E-5,https://paytm.com:443/shop/user/address?channel=web&version=2,0.017295,2015-07-22 18:15:07.475,0,1
+2015-07-22 18:16:26.383,1.23.43.32,2.2E-5,0.012817,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.01286,2015-07-22 18:15:14.391,0,1
+2015-07-22 18:16:28.865,1.23.43.32,2.1E-5,0.008225,2.1E-5,https://paytm.com:443/papi/nps/merchantverification,0.008267001,2015-07-22 18:16:26.383,0,1
+2015-07-22 10:38:39.9,1.38.16.236,2.2E-5,0.010247,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.01029,,1,1
+2015-07-22 10:41:40.609,1.38.16.236,2.2E-5,0.004372,2.5E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=24890,0.0044190004,2015-07-22 10:38:39.9,0,1
+2015-07-22 10:43:09.524,1.38.16.236,2.1E-5,0.001092,2.1E-5,https://paytm.com:443/favicon.ico,0.0011340001,2015-07-22 10:41:40.609,0,1
+2015-07-22 16:51:35.327,1.38.16.236,2.1E-5,0.004102,2.5E-5,https://paytm.com:443/,0.004148,2015-07-22 10:43:09.524,1,2
+2015-07-22 18:04:10.909,1.38.16.236,2.4E-5,0.009644,2.1E-5,https://paytm.com:443/shop/cart,0.009689,2015-07-22 16:51:35.327,1,3
+2015-07-22 18:06:11.298,1.38.16.236,2.2E-5,0.00932,2.1E-5,https://paytm.com:443/shop/cart,0.009363,2015-07-22 18:04:10.909,0,3
+2015-07-22 18:11:14.163,1.38.16.236,2.5E-5,0.010602,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/8361110/offers?parent_id=3412477,0.010648001,2015-07-22 18:06:11.298,0,3
+2015-07-22 18:14:27.728,1.38.16.236,2.5E-5,0.001111,2.5E-5,https://paytm.com:443/favicon.ico,0.0011609999,2015-07-22 18:11:14.163,0,3
+2015-07-22 18:15:22.537,1.38.16.236,2.1E-5,0.003548,2.4E-5,https://paytm.com:443/shop/p/apple-iphone-6-CMPLXAPPLE_IPHONE6_16GB_GOLD?gclid=Cj0KEQjw_rytBRDVhZeQrbzn_q0BEiQAjnbSHBW3CwAI9UdlngkPeu9KaijWCT8eklyVHaFZJFEtjF0aAsVV8P8HAQ,0.003593,2015-07-22 18:14:27.728,0,3
+2015-07-22 05:19:19.617,1.38.19.134,2.3E-5,0.003181,1.6E-5,https://paytm.com:443/shop/g/electronics/mobile-accessories/mobiles-accessories-store/ces-extra-50-off-on-power-banks?gclid=CJi_1dP87cYCFRIGvAod-DwNqA,0.0032199998,,1,1
+2015-07-22 05:22:36.076,1.38.19.134,2.4E-5,0.001063,2.4E-5,https://paytm.com:443/favicon.ico,0.0011109998,2015-07-22 05:19:19.617,0,1
+2015-07-22 05:26:47.237,1.38.19.134,2.5E-5,0.007309,2.2E-5,https://paytm.com:443/shop/cart,0.007356,2015-07-22 05:22:36.076,0,1
+2015-07-22 11:10:01.996,1.38.19.134,2.6E-5,0.008548,2.1E-5,https://paytm.com:443/shop/cart,0.008595,2015-07-22 05:26:47.237,1,2
+2015-07-22 11:16:41.294,1.38.19.134,2.4E-5,0.00427,2.1E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.004315,2015-07-22 11:10:01.996,0,2
+2015-07-22 11:18:27.367,1.38.19.134,2.5E-5,0.012037,2.1E-5,https://paytm.com:443/shop/cart,0.0120830005,2015-07-22 11:16:41.294,0,2
+2015-07-22 11:20:33.033,1.38.19.134,2.1E-5,0.003714,2.1E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.003756,2015-07-22 11:18:27.367,0,2
+2015-07-22 16:23:36.466,1.38.19.59,2.1E-5,0.001129,2.1E-5,https://paytm.com:443/favicon.ico,0.0011710001,,1,1
+2015-07-22 16:24:00.39,1.38.19.59,2.3E-5,0.004574,2.0E-5,https://paytm.com:443/,0.004617,2015-07-22 16:23:36.466,0,1
+2015-07-22 16:24:20.824,1.38.19.59,2.4E-5,0.00214,2.8E-5,https://paytm.com:443/styles/app.css,0.002192,2015-07-22 16:24:00.39,0,1
+2015-07-22 16:24:35.293,1.38.19.59,2.3E-5,2.64E-4,2.1E-5,https://paytm.com:443/favicon.ico,3.0800002E-4,2015-07-22 16:24:20.824,0,1
+2015-07-22 16:24:53.105,1.38.19.59,4.6E-5,0.005564,2.0E-5,https://paytm.com:443/gas,0.00563,2015-07-22 16:24:35.293,0,1
+2015-07-22 16:25:09.176,1.38.19.59,2.8E-5,0.00261,2.1E-5,https://paytm.com:443/styles/app.css,0.002659,2015-07-22 16:24:53.105,0,1
+2015-07-22 16:25:18.148,1.38.19.59,2.2E-5,0.001103,2.1E-5,https://paytm.com:443/favicon.ico,0.0011460001,2015-07-22 16:25:09.176,0,1
+2015-07-22 16:26:15.409,1.38.19.59,2.4E-5,0.001091,2.1E-5,https://paytm.com:443/favicon.ico,0.001136,2015-07-22 16:25:18.148,0,1
+2015-07-22 16:26:16.445,1.38.19.59,2.2E-5,0.001963,2.2E-5,https://paytm.com:443/styles/app.css,0.002007,2015-07-22 16:26:15.409,0,1
+2015-07-22 16:26:29.612,1.38.19.59,2.3E-5,0.001756,2.4E-5,https://paytm.com:443/styles/app.css,0.001803,2015-07-22 16:26:16.445,0,1
+2015-07-22 16:26:53.536,1.38.19.59,2.4E-5,0.001065,2.3E-5,https://paytm.com:443/favicon.ico,0.0011119999,2015-07-22 16:26:29.612,0,1
+2015-07-22 16:27:41.876,1.38.19.59,2.5E-5,0.038049,1.5E-5,https://paytm.com:443/code?code=9609f6ce-1eae-458c-92ba-7daeebbc5225&state=null,0.038089003,2015-07-22 16:26:53.536,0,1
+2015-07-22 16:29:13.941,1.38.19.59,2.2E-5,0.004735,1.6E-5,https://paytm.com:443/,0.0047730003,2015-07-22 16:27:41.876,0,1
+2015-07-22 16:29:25.07,1.38.19.59,2.2E-5,0.012464,2.1E-5,https://paytm.com:443/shop/cart,0.012507,2015-07-22 16:29:13.941,0,1
+2015-07-22 16:30:03.866,1.38.19.59,2.1E-5,0.005028,2.0E-5,https://paytm.com:443/settings,0.005069,2015-07-22 16:29:25.07,0,1
+2015-07-22 16:30:07.954,1.38.19.59,2.2E-5,0.001086,2.6E-5,https://paytm.com:443/favicon.ico,0.001134,2015-07-22 16:30:03.866,0,1
+2015-07-22 16:30:48.729,1.38.19.59,2.6E-5,2.47E-4,2.2E-5,https://paytm.com:443/favicon.ico,2.9499998E-4,2015-07-22 16:30:07.954,0,1
+2015-07-22 16:30:54.821,1.38.19.59,2.4E-5,0.692693,2.2E-5,https://paytm.com:443/paytmcash,0.692739,2015-07-22 16:30:48.729,0,1
+2015-07-22 16:31:01.79,1.38.19.59,2.1E-5,0.003879,2.3E-5,https://paytm.com:443/shop/g/men/the-men-s-store/top-carousal/sports-shoes-top-brands-flat-60-cashback?utm_source=Affiliates&utm_medium=msp&utm_campaign=msp,0.003923,2015-07-22 16:30:54.821,0,1
+2015-07-22 16:32:01.11,1.38.19.59,2.3E-5,0.001749,2.2E-5,https://paytm.com:443/styles/app.css,0.001794,2015-07-22 16:31:01.79,0,1
+2015-07-22 16:32:40.535,1.38.19.59,2.1E-5,0.00175,2.5E-5,https://paytm.com:443/styles/app.css,0.001796,2015-07-22 16:32:01.11,0,1
+2015-07-22 16:32:40.599,1.38.19.59,2.3E-5,0.004025,2.2E-5,https://paytm.com:443/electricity,0.0040700003,2015-07-22 16:32:40.535,0,1
+2015-07-22 16:33:06.225,1.38.19.59,2.6E-5,0.001139,2.4E-5,https://paytm.com:443/favicon.ico,0.001189,2015-07-22 16:32:40.599,0,1
+2015-07-22 16:34:02.117,1.38.19.59,3.2E-5,2.79E-4,2.3E-5,https://paytm.com:443/favicon.ico,3.34E-4,2015-07-22 16:33:06.225,0,1
+2015-07-22 16:34:43.603,1.38.19.59,2.7E-5,0.004131,2.3E-5,https://paytm.com:443/electricity,0.004181,2015-07-22 16:34:02.117,0,1
+2015-07-22 16:35:25.693,1.38.19.59,2.1E-5,0.002648,2.1E-5,https://paytm.com:443/styles/app.css,0.0026899998,2015-07-22 16:34:43.603,0,1
+2015-07-22 16:36:12.736,1.38.19.59,2.5E-5,0.007956,2.0E-5,https://paytm.com:443/,0.008001001,2015-07-22 16:35:25.693,0,1
+2015-07-22 16:36:52.801,1.38.19.59,2.1E-5,0.002053,2.2E-5,https://paytm.com:443/styles/app.css,0.002096,2015-07-22 16:36:12.736,0,1
+2015-07-22 16:37:23.353,1.38.19.59,2.3E-5,0.001074,2.1E-5,https://paytm.com:443/favicon.ico,0.001118,2015-07-22 16:36:52.801,0,1
+2015-07-22 16:37:26.095,1.38.19.59,2.4E-5,0.002647,2.5E-5,https://paytm.com:443/styles/app.css,0.0026959998,2015-07-22 16:37:23.353,0,1
+2015-07-22 16:38:45.009,1.38.19.59,2.3E-5,0.005471,3.2E-5,https://paytm.com:443/gas?operator=Mahanagar%20Gas%20-%20Mumbai,0.0055259997,2015-07-22 16:37:26.095,0,1
+2015-07-22 16:38:54.935,1.38.19.59,3.5E-5,0.002577,1.6E-5,https://paytm.com:443/styles/app.css,0.002628,2015-07-22 16:38:45.009,0,1
+2015-07-22 16:39:44.173,1.38.19.59,2.4E-5,0.004643,2.0E-5,https://paytm.com:443/settings,0.0046870005,2015-07-22 16:38:54.935,0,1
+2015-07-22 16:44:19.224,1.38.19.59,2.1E-5,0.017216,2.1E-5,https://paytm.com:443/shop/app/user-preferences?sso_token=72a01018-58ba-43e1-a66d-89497ccf828d&deviceIdentifier=LAVA-iris356-911329253374202&deviceManufacturer=LAVA&deviceName=iris356&client=androidapp&version=4.4.1&token=fe8a0c57-a19b-4e5f-9531-e4943d79e48d,0.017258,2015-07-22 16:39:44.173,0,1
+2015-07-22 16:48:39.747,1.38.19.59,2.5E-5,0.00403,2.0E-5,https://paytm.com:443/user/notifications,0.004075,2015-07-22 16:44:19.224,0,1
+2015-07-22 16:53:20.102,1.38.19.59,2.6E-5,0.07552,2.3E-5,https://paytm.com:443/shop/user/preferences,0.075569004,2015-07-22 16:48:39.747,0,1
+2015-07-22 16:20:24.931,1.38.22.167,2.6E-5,0.001059,2.1E-5,http://paytm.com:80/?gclid=CPLkksiQ78YCFQsGvAodqW0G_g,0.001106,,1,1
+2015-07-22 16:22:49.419,1.38.22.167,2.3E-5,0.001121,2.3E-5,https://paytm.com:443/favicon.ico,0.001167,2015-07-22 16:20:24.931,0,1
+2015-07-22 16:23:15.566,1.38.22.167,2.5E-5,0.002909,1.5E-5,https://paytm.com:443/?gclid=CPLkksiQ78YCFQsGvAodqW0G_g,0.002949,2015-07-22 16:22:49.419,0,1
+2015-07-22 16:28:02.105,1.38.22.167,2.4E-5,0.011018,2.0E-5,https://paytm.com:443/shop/cart,0.011062,2015-07-22 16:23:15.566,0,1
+2015-07-22 06:57:57.024,1.38.23.63,2.2E-5,0.016677,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.016719999,,1,1
+2015-07-22 06:59:03.53,1.38.23.63,2.2E-5,0.141098,2.0E-5,https://paytm.com:443/shop/wallet/txnhistory?page_size=10&page_number=0&channel=web&version=2,0.14113998,2015-07-22 06:57:57.024,0,1
+2015-07-22 06:59:05.642,1.38.23.63,2.4E-5,0.020028,2.0E-5,https://paytm.com:443/shop/orderdetail/1115776972?channel=web&version=2,0.020072,2015-07-22 06:59:03.53,0,1
+2015-07-22 06:59:35.11,1.38.23.63,2.1E-5,0.019788,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.019829,2015-07-22 06:59:05.642,0,1
+2015-07-22 07:02:52.414,1.38.23.63,2.1E-5,0.00544,2.0E-5,https://paytm.com:443/shop/summary/1115776972,0.005481,2015-07-22 06:59:35.11,0,1
+2015-07-22 07:03:06.529,1.38.23.63,2.4E-5,0.016676,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.016723,2015-07-22 07:02:52.414,0,1
+2015-07-22 07:04:32.075,1.38.23.63,2.1E-5,0.034777,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.034819,2015-07-22 07:03:06.529,0,1
+2015-07-22 07:05:23.487,1.38.23.63,2.4E-5,0.072515,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.072559,2015-07-22 07:04:32.075,0,1
+2015-07-22 07:05:24.442,1.38.23.63,2.4E-5,0.028098,2.6E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.028148001,2015-07-22 07:05:23.487,0,1
+2015-07-22 07:06:15.516,1.38.23.63,2.5E-5,0.07693,2.3E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.076978,2015-07-22 07:05:24.442,0,1
+2015-07-22 07:07:03.172,1.38.23.63,2.5E-5,0.02363,2.3E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.023678001,2015-07-22 07:06:15.516,0,1
+2015-07-22 07:07:33.499,1.38.23.63,2.4E-5,0.063278,2.4E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1,0.06332599,2015-07-22 07:07:03.172,0,1
+2015-07-22 07:07:40.075,1.38.23.63,2.3E-5,0.070289,2.0E-5,https://paytm.com:443/shop/wallet/txnhistory?page_size=10&page_number=0&channel=web&version=2,0.070332,2015-07-22 07:07:33.499,0,1
+2015-07-22 07:11:15.98,1.38.23.63,2.3E-5,0.032964,1.5E-5,https://paytm.com:443/shop/authresponse?code=8b571714-83da-4950-ad63-4331b7c8720e&state=,0.033002,2015-07-22 07:07:40.075,0,1
+2015-07-22 16:43:02.159,1.38.23.63,2.5E-5,0.00262,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.26,0.0026659998,2015-07-22 07:11:15.98,1,2
+2015-07-22 16:43:12.795,1.38.23.63,2.4E-5,0.004217,2.5E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/images-responsive-thumbnail-slider-plus-lightbox-jc.js?ver=4.2.2,0.0042660004,2015-07-22 16:43:02.159,0,2
+2015-07-22 16:44:12.891,1.38.23.63,2.3E-5,0.002515,2.6E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.2.2,0.002564,2015-07-22 16:43:12.795,0,2
+2015-07-22 16:45:02.068,1.38.23.63,2.3E-5,0.001936,1.4E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/flexslider/flexslider.css?ver=2.2.0,0.0019730001,2015-07-22 16:44:12.891,0,2
+2015-07-22 16:45:03.622,1.38.23.63,2.3E-5,0.001667,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.2.2,0.0017110001,2015-07-22 16:45:02.068,0,2
+2015-07-22 16:45:03.67,1.38.23.63,1.8E-5,0.001801,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/wpt-slide.css?ver=4.2.2,0.00184,2015-07-22 16:45:03.622,0,2
+2015-07-22 16:46:11.19,1.38.23.63,2.3E-5,0.002404,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/l-box-js.js?ver=4.2.2,0.0024499998,2015-07-22 16:45:03.67,0,2
+2015-07-22 16:47:08.193,1.38.23.63,2.1E-5,0.002786,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/js/jquery.flexslider-min.js?ver=4.2.2,0.0028269999,2015-07-22 16:46:11.19,0,2
+2015-07-22 16:47:08.239,1.38.23.63,1.8E-5,0.001802,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4,0.001841,2015-07-22 16:47:08.193,0,2
+2015-07-22 16:47:51.369,1.38.23.63,2.3E-5,0.003335,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/js/wpt-js.js?ver=4.2.2,0.0033779999,2015-07-22 16:47:08.239,0,2
+2015-07-22 16:47:57.325,1.38.23.63,2.4E-5,0.002653,1.4E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4,0.002691,2015-07-22 16:47:51.369,0,2
+2015-07-22 16:47:57.374,1.38.23.63,2.6E-5,0.001905,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4,0.001952,2015-07-22 16:47:57.325,0,2
+2015-07-22 16:48:01.352,1.38.23.63,2.5E-5,0.001731,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.theme.default.css?ver=2.0.0,0.001778,2015-07-22 16:47:57.374,0,2
+2015-07-22 16:48:21.161,1.38.23.63,2.4E-5,0.002637,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/images-responsive-thumbnail-slider-plus-lighbox-style.css?ver=4.2.2,0.002684,2015-07-22 16:48:01.352,0,2
+2015-07-22 16:49:02.139,1.38.23.63,2.2E-5,0.002741,1.9E-5,https://paytm.com:443/offer/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2,0.0027819998,2015-07-22 16:48:21.161,0,2
+2015-07-22 16:49:02.185,1.38.23.63,2.5E-5,0.001667,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/jcarouselresponsive.css?ver=4.2.2,0.001712,2015-07-22 16:49:02.139,0,2
+2015-07-22 16:49:31.873,1.38.23.63,2.2E-5,0.001793,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/script.js?ver=4.2.2,0.0018360001,2015-07-22 16:49:02.185,0,2
+2015-07-22 16:50:04.402,1.38.23.63,2.1E-5,0.002321,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/05/bg_gg_v1.gif,0.0023629998,2015-07-22 16:49:31.873,0,2
+2015-07-22 16:51:01.053,1.38.23.63,2.3E-5,0.001727,1.6E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/css/flexslider.css?ver=4.2.2,0.0017660001,2015-07-22 16:50:04.402,0,2
+2015-07-22 16:51:01.102,1.38.23.63,1.8E-5,0.004386,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=4.2.2,0.004423,2015-07-22 16:51:01.053,0,2
+2015-07-22 16:51:10.901,1.38.23.63,2.6E-5,0.002167,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/slider-plus-lightbox-js.js?ver=4.2.2,0.0022139999,2015-07-22 16:51:01.102,0,2
+2015-07-22 16:51:10.953,1.38.23.63,1.9E-5,0.002966,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/jquery.lbox.min.js?ver=4.2.2,0.0030049998,2015-07-22 16:51:10.901,0,2
+2015-07-22 16:51:27.913,1.38.23.63,2.5E-5,0.001872,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4,0.001917,2015-07-22 16:51:10.953,0,2
+2015-07-22 16:51:27.964,1.38.23.63,1.9E-5,0.002701,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.00274,2015-07-22 16:51:27.913,0,2
+2015-07-22 16:51:53.268,1.38.23.63,2.3E-5,0.001653,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.2.2,0.0016999999,2015-07-22 16:51:27.964,0,2
+2015-07-22 16:52:28.092,1.38.23.63,2.1E-5,0.002701,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/jquery.lbox.css?ver=4.2.2,0.002743,2015-07-22 16:51:53.268,0,2
+2015-07-22 16:52:35.299,1.38.23.63,2.2E-5,0.002602,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.2.2,0.002648,2015-07-22 16:52:28.092,0,2
+2015-07-22 16:52:40.236,1.38.23.63,2.5E-5,0.001617,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.carousel.min.css?ver=2.0.0,0.001664,2015-07-22 16:52:35.299,0,2
+2015-07-22 16:52:40.286,1.38.23.63,1.8E-5,0.001714,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.3,0.0017520001,2015-07-22 16:52:40.236,0,2
+2015-07-22 16:53:26.108,1.38.23.63,2.1E-5,0.002335,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1,0.0023710001,2015-07-22 16:52:40.286,0,2
+2015-07-22 16:54:03.674,1.38.23.63,2.5E-5,0.001733,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3,0.00178,2015-07-22 16:53:26.108,0,2
+2015-07-22 16:54:16.883,1.38.23.63,2.5E-5,0.002679,7.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/06/wallet_img2.jpg,0.002774,2015-07-22 16:54:03.674,0,2
+2015-07-22 16:54:16.934,1.38.23.63,1.9E-5,0.002609,1.4E-5,https://paytm.com:443/offer/wp-content/uploads/2015/05/appstore_iPhone.png,0.002642,2015-07-22 16:54:16.883,0,2
+2015-07-22 16:54:17.413,1.38.23.63,2.6E-5,0.002901,2.5E-5,https://paytm.com:443/mobile,0.002952,2015-07-22 16:54:16.934,0,2
+2015-07-22 16:56:30.035,1.38.23.63,2.3E-5,0.002109,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js?ver=4.2.2,0.0021539999,2015-07-22 16:54:17.413,0,2
+2015-07-22 16:56:49.417,1.38.23.63,2.5E-5,0.002732,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3,0.002777,2015-07-22 16:56:30.035,0,2
+2015-07-22 16:56:49.467,1.38.23.63,1.9E-5,0.001697,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4,0.0017370001,2015-07-22 16:56:49.417,0,2
+2015-07-22 16:57:28.696,1.38.23.63,2.4E-5,0.00169,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/styles.css?ver=4.2.2,0.0017349999,2015-07-22 16:56:49.467,0,2
+2015-07-22 16:57:28.745,1.38.23.63,1.8E-5,0.001778,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.2.2,0.0018170001,2015-07-22 16:57:28.696,0,2
+2015-07-22 16:57:42.787,1.38.23.63,2.6E-5,0.004976,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=3.8,0.0050230003,2015-07-22 16:57:28.745,0,2
+2015-07-22 16:57:42.84,1.38.23.63,1.9E-5,0.002102,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.2.2,0.0021419998,2015-07-22 16:57:42.787,0,2
+2015-07-22 16:57:49.676,1.38.23.63,2.4E-5,0.002032,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.002077,2015-07-22 16:57:42.84,0,2
+2015-07-22 16:58:10.058,1.38.23.63,3.0E-5,0.002107,1.7E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4,0.0021539999,2015-07-22 16:57:49.676,0,2
+2015-07-22 16:58:10.113,1.38.23.63,2.3E-5,0.004025,2.2E-5,https://paytm.com:443/offer/wp-includes/js/masonry.min.js?ver=3.1.2,0.0040700003,2015-07-22 16:58:10.058,0,2
+2015-07-22 16:58:21.227,1.38.23.63,2.1E-5,0.001798,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/l-box-css.css?ver=4.2.2,0.00184,2015-07-22 16:58:10.113,0,2
+2015-07-22 16:58:38.552,1.38.23.63,2.3E-5,0.002551,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jcarousel.responsive.js?ver=4.2.2,0.002596,2015-07-22 16:58:21.227,0,2
+2015-07-22 16:58:56.699,1.38.23.63,2.4E-5,0.00274,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9,0.0027839998,2015-07-22 16:58:38.552,0,2
+2015-07-22 16:58:56.748,1.38.23.63,1.8E-5,0.002628,2.1E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/style.css?ver=4.2.2,0.0026669998,2015-07-22 16:58:56.699,0,2
+2015-07-22 16:58:57.176,1.38.23.63,2.3E-5,0.001774,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/slider-plus-lightbox-style.css?ver=4.2.2,0.001818,2015-07-22 16:58:56.748,0,2
+2015-07-22 16:58:57.23,1.38.23.63,3.1E-5,0.001791,6.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.2.2,0.001884,2015-07-22 16:58:57.176,0,2
+2015-07-22 10:40:03.601,1.39.12.109,2.4E-5,0.005807,1.4E-5,https://paytm.com:443/login,0.0058450005,,1,1
+2015-07-22 10:52:42.325,1.39.12.109,2.4E-5,0.06664,2.1E-5,https://paytm.com:443/,0.066685,2015-07-22 10:40:03.601,0,1
+2015-07-22 16:15:29.161,1.39.12.73,2.0E-5,0.005223,1.5E-5,https://paytm.com:443/help,0.005258,,1,1
+2015-07-22 06:56:22.66,1.39.13.243,2.2E-5,0.004201,2.3E-5,https://paytm.com:443/shop,0.004246,,1,1
+2015-07-22 06:57:44.129,1.39.13.243,2.1E-5,0.015052,3.2E-5,https://paytm.com:443/shop/cart,0.015105001,2015-07-22 06:56:22.66,0,1
+2015-07-22 06:57:55.201,1.39.13.243,2.3E-5,0.021187,1.4E-5,https://paytm.com:443/shop/log,0.021224,2015-07-22 06:57:44.129,0,1
+2015-07-22 06:58:09.919,1.39.13.243,2.3E-5,0.012903,1.9E-5,https://paytm.com:443/shop/log,0.012945,2015-07-22 06:57:55.201,0,1
+2015-07-22 06:58:23.144,1.39.13.243,2.5E-5,0.004246,2.0E-5,https://paytm.com:443/shop,0.0042910003,2015-07-22 06:58:09.919,0,1
+2015-07-22 06:58:28.773,1.39.13.243,2.2E-5,0.003042,1.3E-5,https://paytm.com:443/shop/logout,0.0030770001,2015-07-22 06:58:23.144,0,1
+2015-07-22 06:58:32.592,1.39.13.243,2.6E-5,0.010203,2.0E-5,https://paytm.com:443/shop/cart,0.010249,2015-07-22 06:58:28.773,0,1
+2015-07-22 07:00:31.98,1.39.13.243,2.3E-5,0.002577,2.1E-5,https://paytm.com:443/shop/logout,0.002621,2015-07-22 06:58:32.592,0,1
+2015-07-22 07:02:17.189,1.39.13.243,2.1E-5,0.01004,2.1E-5,https://paytm.com:443/shop/cart,0.010082001,2015-07-22 07:00:31.98,0,1
+2015-07-22 07:03:03.024,1.39.13.243,2.1E-5,0.003651,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.003693,2015-07-22 07:02:17.189,0,1
+2015-07-22 07:03:07.351,1.39.13.243,2.4E-5,0.00307,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.003115,2015-07-22 07:03:03.024,0,1
+2015-07-22 07:03:31.656,1.39.13.243,2.4E-5,0.003906,2.2E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.0039520003,2015-07-22 07:03:07.351,0,1
+2015-07-22 07:04:23.659,1.39.13.243,2.3E-5,0.004478,2.1E-5,https://paytm.com:443/shop,0.004522,2015-07-22 07:03:31.656,0,1
+2015-07-22 07:04:40.869,1.39.13.243,2.4E-5,0.004426,1.7E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=grabon&utm_campaign=grabon,0.0044670003,2015-07-22 07:04:23.659,0,1
+2015-07-22 07:04:40.997,1.39.13.243,2.0E-5,0.004757,2.0E-5,https://paytm.com:443/shop,0.0047970004,2015-07-22 07:04:40.869,0,1
+2015-07-22 07:05:01.536,1.39.13.243,2.4E-5,0.006492,1.5E-5,https://paytm.com:443/shop/cart,0.006531,2015-07-22 07:04:40.997,0,1
+2015-07-22 07:05:03.847,1.39.13.243,2.2E-5,0.023509,2.0E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.023550998,2015-07-22 07:05:01.536,0,1
+2015-07-22 07:05:20.471,1.39.13.243,2.4E-5,0.024547,2.4E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.024595,2015-07-22 07:05:03.847,0,1
+2015-07-22 07:10:10.448,1.39.13.243,2.1E-5,0.030412,2.3E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.030456,2015-07-22 07:05:20.471,0,1
+2015-07-22 07:10:11.579,1.39.13.243,4.4E-5,0.772264,2.1E-5,https://paytm.com:443/shop/log,0.772329,2015-07-22 07:10:10.448,0,1
+2015-07-22 07:11:14.367,1.39.13.243,2.5E-5,0.015292,1.6E-5,https://paytm.com:443/shop/cart,0.015333001,2015-07-22 07:10:11.579,0,1
+2015-07-22 07:11:18.012,1.39.13.243,2.2E-5,0.013068,2.2E-5,https://paytm.com:443/shop/cart,0.013111999,2015-07-22 07:11:14.367,0,1
+2015-07-22 07:11:31.257,1.39.13.243,2.5E-5,0.003004,2.3E-5,https://paytm.com:443/shop/logout,0.003052,2015-07-22 07:11:18.012,0,1
+2015-07-22 07:12:52.381,1.39.13.243,2.2E-5,0.024016,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.024059,2015-07-22 07:11:31.257,0,1
+2015-07-22 16:14:09.42,1.39.13.243,2.4E-5,0.00249,1.6E-5,https://paytm.com:443/about?option=mobile,0.00253,2015-07-22 07:12:52.381,1,2
+2015-07-22 16:14:32.438,1.39.13.243,2.5E-5,9.09E-4,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.2.2,9.49E-4,2015-07-22 16:14:09.42,0,2
+2015-07-22 16:14:36.496,1.39.13.243,2.1E-5,9.92E-4,1.3E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.2.2,0.001026,2015-07-22 16:14:32.438,0,2
+2015-07-22 16:15:54.017,1.39.13.243,2.1E-5,9.84E-4,3.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/jquery.lbox.css?ver=4.2.2,0.0010380001,2015-07-22 16:14:36.496,0,2
+2015-07-22 16:16:12.891,1.39.13.243,2.2E-5,0.003501,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.26,0.003543,2015-07-22 16:15:54.017,0,2
+2015-07-22 16:16:17.77,1.39.13.243,2.0E-5,8.94E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.2.2,9.3599997E-4,2015-07-22 16:16:12.891,0,2
+2015-07-22 16:16:35.651,1.39.13.243,2.1E-5,0.003667,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/wpt-slide.css?ver=4.2.2,0.0037079998,2015-07-22 16:16:17.77,0,2
+2015-07-22 16:18:15.311,1.39.13.243,2.1E-5,7.7E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.2.2,8.1299996E-4,2015-07-22 16:16:35.651,0,2
+2015-07-22 16:18:17.979,1.39.13.243,2.5E-5,0.001325,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/js/jquery.flexslider-min.js?ver=4.2.2,0.001371,2015-07-22 16:18:15.311,0,2
+2015-07-22 16:19:51.398,1.39.13.243,2.3E-5,0.001173,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9,0.0012170001,2015-07-22 16:18:17.979,0,2
+2015-07-22 16:20:03.202,1.39.13.243,2.3E-5,0.003706,2.3E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4,0.003752,2015-07-22 16:19:51.398,0,2
+2015-07-22 16:20:55.832,1.39.13.243,2.1E-5,0.001859,2.0E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/style.css?ver=4.2.2,0.0019,2015-07-22 16:20:03.202,0,2
+2015-07-22 16:21:16.938,1.39.13.243,2.5E-5,8.67E-4,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.2.2,9.13E-4,2015-07-22 16:20:55.832,0,2
+2015-07-22 16:21:59.494,1.39.13.243,2.4E-5,0.003577,2.6E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4,0.003627,2015-07-22 16:21:16.938,0,2
+2015-07-22 16:22:57.431,1.39.13.243,2.4E-5,7.91E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/styles.css?ver=4.2.2,8.37E-4,2015-07-22 16:21:59.494,0,2
+2015-07-22 16:23:31.925,1.39.13.243,2.1E-5,0.003462,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/flexslider/flexslider.css?ver=2.2.0,0.003504,2015-07-22 16:22:57.431,0,2
+2015-07-22 16:23:59.492,1.39.13.243,2.5E-5,0.001037,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.001084,2015-07-22 16:23:31.925,0,2
+2015-07-22 16:24:15.666,1.39.13.243,2.4E-5,9.66E-4,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.3,0.001012,2015-07-22 16:23:59.492,0,2
+2015-07-22 16:24:50.386,1.39.13.243,2.2E-5,0.001137,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/css/flexslider.css?ver=4.2.2,0.0011780001,2015-07-22 16:24:15.666,0,2
+2015-07-22 16:25:52.814,1.39.13.243,2.4E-5,8.81E-4,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.carousel.min.css?ver=2.0.0,9.2900003E-4,2015-07-22 16:24:50.386,0,2
+2015-07-22 16:25:59.953,1.39.13.243,2.3E-5,8.86E-4,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1,9.33E-4,2015-07-22 16:25:52.814,0,2
+2015-07-22 16:26:34.204,1.39.13.243,3.2E-5,0.003515,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/images-responsive-thumbnail-slider-plus-lighbox-style.css?ver=4.2.2,0.003569,2015-07-22 16:25:59.953,0,2
+2015-07-22 16:27:11.546,1.39.13.243,2.2E-5,0.004788,2.6E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=4.2.2,0.0048360005,2015-07-22 16:26:34.204,0,2
+2015-07-22 16:27:33.63,1.39.13.243,3.5E-5,0.003425,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.theme.default.css?ver=2.0.0,0.003479,2015-07-22 16:27:11.546,0,2
+2015-07-22 16:27:59.148,1.39.13.243,2.4E-5,0.004482,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.0045290003,2015-07-22 16:27:33.63,0,2
+2015-07-22 16:29:17.097,1.39.13.243,2.7E-5,0.003372,1.6E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/slider-plus-lightbox-style.css?ver=4.2.2,0.003415,2015-07-22 16:27:59.148,0,2
+2015-07-22 16:29:22.535,1.39.13.243,2.6E-5,9.47E-4,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/l-box-css.css?ver=4.2.2,9.92E-4,2015-07-22 16:29:17.097,0,2
+2015-07-22 16:29:37.247,1.39.13.243,2.4E-5,0.003261,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3,0.0033059998,2015-07-22 16:29:22.535,0,2
+2015-07-22 16:14:33.636,1.39.14.17,1.9E-5,2.43E-4,2.1E-5,https://paytm.com:443/favicon.ico,2.83E-4,,1,1
+2015-07-22 16:16:02.152,1.39.14.17,2.4E-5,0.009327,1.3E-5,https://paytm.com:443/shop/cart,0.0093640005,2015-07-22 16:14:33.636,0,1
+2015-07-22 16:16:08.095,1.39.14.17,2.3E-5,0.005066,2.0E-5,https://paytm.com:443/shop/g/men/clothes-all/t-shirts?sort_price=0&utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=affiliate-id,0.005109,2015-07-22 16:16:02.152,0,1
+2015-07-22 16:16:37.215,1.39.14.17,2.6E-5,0.011627,2.0E-5,https://paytm.com:443/shop/cart,0.011673,2015-07-22 16:16:08.095,0,1
+2015-07-22 16:19:33.174,1.39.14.17,3.2E-5,0.001128,2.4E-5,https://paytm.com:443/apple-touch-icon-precomposed.png,0.0011839999,2015-07-22 16:16:37.215,0,1
+2015-07-22 16:25:11.748,1.39.14.17,3.1E-5,0.005133,2.1E-5,https://paytm.com:443/shop/g/men/clothes-all/t-shirts?sort_price=0&utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=affiliate-id,0.005185,2015-07-22 16:19:33.174,0,1
+2015-07-22 16:14:32.774,1.39.15.7,3.0E-5,0.006933,2.0E-5,https://paytm.com:443/shop/summary/1117819186,0.0069830003,,1,1
+2015-07-22 16:19:39.098,1.39.15.7,2.5E-5,0.020045,2.1E-5,https://paytm.com:443/shop/orderdetail/1117819186,0.020091,2015-07-22 16:14:32.774,0,1
+2015-07-22 16:25:15.772,1.39.15.7,2.5E-5,0.015572,1.5E-5,https://paytm.com:443/shop/v1/frequentorders,0.015612001,2015-07-22 16:19:39.098,0,1
+2015-07-22 16:26:15.696,1.39.15.7,2.2E-5,0.003798,2.1E-5,https://paytm.com:443/,0.003841,2015-07-22 16:25:15.772,0,1
+2015-07-22 16:24:33.231,1.39.33.160,2.3E-5,0.001972,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.002017,,1,1
+2015-07-22 16:25:22.631,1.39.33.160,2.6E-5,0.004293,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.2.2,0.004339,2015-07-22 16:24:33.231,0,1
+2015-07-22 16:26:57.123,1.39.33.160,2.1E-5,0.002024,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.2.2,0.00206,2015-07-22 16:25:22.631,0,1
+2015-07-22 16:28:04.926,1.39.33.160,2.3E-5,0.005006,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=3.8,0.00505,2015-07-22 16:26:57.123,0,1
+2015-07-22 16:28:13.616,1.39.33.160,2.3E-5,0.002813,2.5E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/js/wpt-js.js?ver=4.2.2,0.002861,2015-07-22 16:28:04.926,0,1
+2015-07-22 16:29:14.918,1.39.33.160,2.2E-5,0.002895,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js?ver=4.2.2,0.0029369998,2015-07-22 16:28:13.616,0,1
+2015-07-22 16:29:50.714,1.39.33.160,2.4E-5,0.004096,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/l-box-js.js?ver=4.2.2,0.004143,2015-07-22 16:29:14.918,0,1
+2015-07-22 16:33:01.971,1.39.33.160,2.5E-5,0.001783,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/script.js?ver=4.2.2,0.001829,2015-07-22 16:29:50.714,0,1
+2015-07-22 16:37:05.3,1.39.33.160,2.3E-5,0.001909,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.0019530001,2015-07-22 16:33:01.971,0,1
+2015-07-22 16:37:07.464,1.39.33.160,2.5E-5,0.002355,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/jquery.lbox.min.js?ver=4.2.2,0.002403,2015-07-22 16:37:05.3,0,1
+2015-07-22 16:39:29.371,1.39.33.160,2.5E-5,0.001856,2.5E-5,https://paytm.com:443/offer/wp-content/uploads/2015/04/img1.jpg,0.001906,2015-07-22 16:37:07.464,0,1
+2015-07-22 16:39:49.681,1.39.33.160,2.4E-5,0.00275,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/images-responsive-thumbnail-slider-plus-lightbox-jc.js?ver=4.2.2,0.0027939999,2015-07-22 16:39:29.371,0,1
+2015-07-22 02:54:31.702,1.39.34.123,2.4E-5,0.003099,2.1E-5,https://paytm.com:443/shop?utm_source=affiliate&utm_medium=promocodeclub&utm_campaign=promocodeclub-generic&utm_term=pccptm,0.003144,,1,1
+2015-07-22 02:55:48.992,1.39.34.123,2.6E-5,0.012402,2.3E-5,https://paytm.com:443/shop/cart,0.012451,2015-07-22 02:54:31.702,0,1
+2015-07-22 16:55:11.742,1.39.63.149,2.4E-5,0.043248,2.0E-5,https://paytm.com:443/shop/labels?vertical_id=4&item_status=15&details=1,0.043292,,1,1
+2015-07-22 16:36:02.66,1.39.80.50,2.3E-5,0.011452,2.3E-5,https://paytm.com:443/shop/cart,0.011498,,1,1
+2015-07-22 16:37:52.508,1.39.80.50,2.4E-5,5.88E-4,1.5E-5,https://paytm.com:443/favicon.ico,6.27E-4,2015-07-22 16:36:02.66,0,1
+2015-07-22 10:41:05.488,1.39.96.99,2.0E-5,0.008258,2.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.008303001,,1,1
+2015-07-22 10:44:41.878,1.39.96.99,2.4E-5,0.003992,1.5E-5,https://paytm.com:443/,0.004031,2015-07-22 10:41:05.488,0,1
+2015-07-22 10:47:10.596,1.39.96.99,2.1E-5,2.69E-4,2.4E-5,https://paytm.com:443/favicon.ico,3.14E-4,2015-07-22 10:44:41.878,0,1
+2015-07-22 10:48:54.493,1.39.96.99,2.3E-5,0.003046,2.4E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0030929998,2015-07-22 10:47:10.596,0,1
+2015-07-22 10:49:52.512,1.39.96.99,2.2E-5,0.001143,2.2E-5,https://paytm.com:443/favicon.ico,0.0011870001,2015-07-22 10:48:54.493,0,1
+2015-07-22 10:55:00.409,1.39.96.99,2.3E-5,2.38E-4,1.6E-5,http://www.paytm.com:80/,2.77E-4,2015-07-22 10:49:52.512,0,1
+2015-07-22 10:57:06.768,1.39.96.99,2.4E-5,0.007326,2.0E-5,https://paytm.com:443/shop/cart,0.0073700002,2015-07-22 10:55:00.409,0,1
+2015-07-22 11:00:01.887,1.39.96.99,2.6E-5,0.003863,2.4E-5,https://paytm.com:443/shop/g/electronics/mobile-accessories/mobiles-accessories-store/price-never-before-tablets?gclid=COS06tzH7sYCFdgkvQodylsM6A,0.003913,2015-07-22 10:57:06.768,0,1
+2015-07-22 16:16:23.273,1.39.97.34,2.1E-5,0.004764,1.6E-5,https://paytm.com:443/,0.004801,,1,1
+2015-07-22 16:21:34.667,1.39.97.34,2.5E-5,0.009968,2.0E-5,https://paytm.com:443/shop/cart,0.010013001,2015-07-22 16:16:23.273,0,1
+2015-07-22 16:25:02.361,1.39.97.34,2.5E-5,0.016652,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.016698,2015-07-22 16:21:34.667,0,1
+2015-07-22 10:39:43.927,101.212.71.234,2.6E-5,0.031343,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.031389996,,1,1
+2015-07-22 10:50:32.235,101.212.71.234,2.5E-5,0.005641,2.1E-5,https://paytm.com:443/shop/summary/1116585824,0.0056869998,2015-07-22 10:39:43.927,0,1
+2015-07-22 10:51:10.751,101.212.71.234,2.1E-5,0.01699,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.017034,2015-07-22 10:50:32.235,0,1
+2015-07-22 10:51:41.024,101.212.71.234,2.4E-5,0.028873,2.0E-5,https://paytm.com:443/api/user/favourite?channel=web&version=2,0.028917,2015-07-22 10:51:10.751,0,1
+2015-07-22 10:51:46.661,101.212.71.234,2.4E-5,0.004735,1.5E-5,https://paytm.com:443/shop,0.004774,2015-07-22 10:51:41.024,0,1
+2015-07-22 10:51:49.106,101.212.71.234,3.7E-5,0.02326,2.2E-5,https://paytm.com:443/shop/orderdetail/1116585824?channel=web&version=2,0.023318999,2015-07-22 10:51:46.661,0,1
+2015-07-22 10:55:56.68,101.212.71.234,2.4E-5,0.023961,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.024006,2015-07-22 10:51:49.106,0,1
+2015-07-22 10:56:01.993,101.212.71.234,2.5E-5,0.003328,2.5E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.0033779999,2015-07-22 10:55:56.68,0,1
+2015-07-22 10:58:16.791,101.212.71.234,2.2E-5,0.00257,2.0E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0026119999,2015-07-22 10:56:01.993,0,1
+2015-07-22 10:59:25.76,101.212.71.234,2.3E-5,0.008579,1.8E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.0086199995,2015-07-22 10:58:16.791,0,1
+2015-07-22 10:59:56.393,101.212.71.234,2.3E-5,0.019851,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.019894999,2015-07-22 10:59:25.76,0,1
+2015-07-22 11:01:19.577,101.212.71.234,2.1E-5,0.064752,2.1E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.064794004,2015-07-22 10:59:56.393,0,1
+2015-07-22 11:01:41.319,101.212.71.234,2.3E-5,0.534804,2.9E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1&withdraw=1,0.534856,2015-07-22 11:01:19.577,0,1
+2015-07-22 11:03:17.199,101.212.71.234,2.1E-5,0.008648,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.008691,2015-07-22 11:01:41.319,0,1
+2015-07-22 11:04:15.595,101.212.71.234,2.7E-5,0.00472,2.5E-5,https://paytm.com:443/shop,0.004772,2015-07-22 11:03:17.199,0,1
+2015-07-22 18:04:27.302,101.221.136.171,2.4E-5,0.003731,2.0E-5,https://paytm.com:443/settings,0.0037749999,,1,1
+2015-07-22 18:04:59.836,101.221.136.171,1.9E-5,0.002436,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.0024759998,2015-07-22 18:04:27.302,0,1
+2015-07-22 18:05:06.653,101.221.136.171,2.4E-5,0.003248,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=3.8,0.003296,2015-07-22 18:04:59.836,0,1
+2015-07-22 18:05:20.681,101.221.136.171,2.3E-5,0.002062,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.2.2,0.002108,2015-07-22 18:05:06.653,0,1
+2015-07-22 18:05:20.948,101.221.136.171,2.3E-5,0.002592,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.2.2,0.0026359998,2015-07-22 18:05:20.681,0,1
+2015-07-22 18:05:25.328,101.221.136.171,2.4E-5,0.00384,2.5E-5,https://paytm.com:443/faq,0.0038889998,2015-07-22 18:05:20.948,0,1
+2015-07-22 18:05:36.759,101.221.136.171,2.4E-5,0.001524,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.2.2,0.0015669999,2015-07-22 18:05:25.328,0,1
+2015-07-22 18:06:17.751,101.221.136.171,2.1E-5,0.002307,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/rightarrow.png,0.002349,2015-07-22 18:05:36.759,0,1
+2015-07-22 18:06:28.155,101.221.136.171,2.3E-5,0.002581,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/script.js?ver=4.2.2,0.002626,2015-07-22 18:06:17.751,0,1
+2015-07-22 18:06:32.016,101.221.136.171,1.8E-5,0.001854,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3,0.0018930001,2015-07-22 18:06:28.155,0,1
+2015-07-22 18:06:40.608,101.221.136.171,2.1E-5,0.002159,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4,0.0022009998,2015-07-22 18:06:32.016,0,1
+2015-07-22 18:06:46.215,101.221.136.171,2.0E-5,0.002042,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4,0.0020819998,2015-07-22 18:06:40.608,0,1
+2015-07-22 18:06:58.676,101.221.136.171,2.2E-5,0.002971,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4,0.003013,2015-07-22 18:06:46.215,0,1
+2015-07-22 18:07:04.304,101.221.136.171,2.0E-5,0.002074,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/slider-plus-lightbox-js.js?ver=4.2.2,0.0021169998,2015-07-22 18:06:58.676,0,1
+2015-07-22 18:07:22.714,101.221.136.171,2.2E-5,0.002004,1.6E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/jquery.lbox.min.js?ver=4.2.2,0.0020419997,2015-07-22 18:07:04.304,0,1
+2015-07-22 18:07:41.52,101.221.136.171,2.3E-5,0.002344,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.2.2,0.002382,2015-07-22 18:07:22.714,0,1
+2015-07-22 18:07:42.036,101.221.136.171,2.3E-5,0.001643,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.2.2,0.0016880002,2015-07-22 18:07:41.52,0,1
+2015-07-22 18:07:46.765,101.221.136.171,2.4E-5,0.001654,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/images/fancybox.png,0.001698,2015-07-22 18:07:42.036,0,1
+2015-07-22 18:08:06.952,101.221.136.171,2.3E-5,0.002536,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.3,0.0025819999,2015-07-22 18:07:46.765,0,1
+2015-07-22 18:08:13.211,101.221.136.171,2.2E-5,0.003856,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=4.2.2,0.0039,2015-07-22 18:08:06.952,0,1
+2015-07-22 18:08:14.912,101.221.136.171,2.1E-5,0.001741,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4,0.0017830001,2015-07-22 18:08:13.211,0,1
+2015-07-22 18:08:33.618,101.221.136.171,2.3E-5,0.002747,2.2E-5,https://paytm.com:443/offer/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2,0.0027919998,2015-07-22 18:08:14.912,0,1
+2015-07-22 18:08:39.651,101.221.136.171,2.2E-5,0.002458,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.carousel.min.css?ver=2.0.0,0.0024950001,2015-07-22 18:08:33.618,0,1
+2015-07-22 18:09:18.773,101.221.136.171,2.2E-5,0.001534,1.6E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/fonts/flexslider-icon.eot?,0.0015720001,2015-07-22 18:08:39.651,0,1
+2015-07-22 18:09:26.817,101.221.136.171,2.1E-5,0.002585,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4,0.0026269997,2015-07-22 18:09:18.773,0,1
+2015-07-22 18:09:36.242,101.221.136.171,2.3E-5,0.001917,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4,0.001962,2015-07-22 18:09:26.817,0,1
+2015-07-22 18:09:36.307,101.221.136.171,1.9E-5,0.002456,2.0E-5,https://paytm.com:443/offer/wp-includes/js/masonry.min.js?ver=3.1.2,0.002495,2015-07-22 18:09:36.242,0,1
+2015-07-22 18:09:40.748,101.221.136.171,1.9E-5,0.001793,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/slider-plus-lightbox-style.css?ver=4.2.2,0.001835,2015-07-22 18:09:36.307,0,1
+2015-07-22 18:10:02.144,101.221.136.171,2.3E-5,0.001755,2.2E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/js/html5.js,0.0018000001,2015-07-22 18:09:40.748,0,1
+2015-07-22 18:10:11.513,101.221.136.171,2.1E-5,0.002451,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/styles.css?ver=4.2.2,0.002493,2015-07-22 18:10:02.144,0,1
+2015-07-22 18:10:23.845,101.221.136.171,2.4E-5,0.004198,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/js/wpt-js.js?ver=4.2.2,0.004244,2015-07-22 18:10:11.513,0,1
+2015-07-22 18:10:38.879,101.221.136.171,1.9E-5,0.001594,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.2.2,0.0016330001,2015-07-22 18:10:23.845,0,1
+2015-07-22 18:10:59.443,101.221.136.171,2.4E-5,0.00242,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/images/vl-box/controls.png,0.002464,2015-07-22 18:10:38.879,0,1
+2015-07-22 18:11:04.839,101.221.136.171,2.4E-5,0.002666,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/images-responsive-thumbnail-slider-plus-lightbox-jc.js?ver=4.2.2,0.002711,2015-07-22 18:10:59.443,0,1
+2015-07-22 18:11:05.602,101.221.136.171,2.4E-5,0.001983,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js?ver=4.2.2,0.0020289999,2015-07-22 18:11:04.839,0,1
+2015-07-22 18:11:12.37,101.221.136.171,3.0E-5,0.001798,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/jquery.lbox.css?ver=4.2.2,0.001848,2015-07-22 18:11:05.602,0,1
+2015-07-22 18:11:29.958,101.221.136.171,2.2E-5,0.002044,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/js/jquery.flexslider-min.js?ver=4.2.2,0.0020879998,2015-07-22 18:11:12.37,0,1
+2015-07-22 18:13:19.379,101.221.136.171,2.2E-5,0.002428,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3,0.0024650001,2015-07-22 18:11:29.958,0,1
+2015-07-22 18:13:23.972,101.221.136.171,2.0E-5,0.002614,1.4E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/images-responsive-thumbnail-slider-plus-lighbox-style.css?ver=4.2.2,0.0026480001,2015-07-22 18:13:19.379,0,1
+2015-07-22 18:13:34.748,101.221.136.171,2.3E-5,0.001558,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2,0.001601,2015-07-22 18:13:23.972,0,1
+2015-07-22 18:13:59.893,101.221.136.171,2.0E-5,0.001562,2.2E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318,0.0016040001,2015-07-22 18:13:34.748,0,1
+2015-07-22 18:13:59.953,101.221.136.171,1.7E-5,0.001609,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.3,0.0016460001,2015-07-22 18:13:59.893,0,1
+2015-07-22 18:14:01.134,101.221.136.171,2.4E-5,0.002511,1.6E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.theme.default.css?ver=2.0.0,0.0025509999,2015-07-22 18:13:59.953,0,1
+2015-07-22 18:14:08.501,101.221.136.171,2.2E-5,0.002667,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.2.2,0.00271,2015-07-22 18:14:01.134,0,1
+2015-07-22 18:15:13.968,101.221.136.171,2.1E-5,0.00248,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jcarousel.responsive.js?ver=4.2.2,0.002523,2015-07-22 18:14:08.501,0,1
+2015-07-22 18:15:19.812,101.221.136.171,2.1E-5,0.001886,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/l-box-css.css?ver=4.2.2,0.0019220001,2015-07-22 18:15:13.968,0,1
+2015-07-22 18:15:21.398,101.221.136.171,2.2E-5,0.002566,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/wpt-slide.css?ver=4.2.2,0.0026079998,2015-07-22 18:15:19.812,0,1
+2015-07-22 18:16:05.043,101.221.136.171,1.9E-5,0.003976,2.1E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/style.css?ver=4.2.2,0.004016,2015-07-22 18:15:21.398,0,1
+2015-07-22 18:16:49.212,101.221.136.171,2.2E-5,0.001657,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4,0.0017010001,2015-07-22 18:16:05.043,0,1
+2015-07-22 18:16:58.796,101.221.136.171,2.1E-5,0.005518,1.4E-5,https://paytm.com:443/mobilebill,0.005553,2015-07-22 18:16:49.212,0,1
+2015-07-22 18:17:29.232,101.221.136.171,2.1E-5,0.002664,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.26,0.0027059999,2015-07-22 18:16:58.796,0,1
+2015-07-22 18:17:39.024,101.221.136.171,2.2E-5,0.001663,2.1E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/css/ie.css?ver=20121010,0.0017060001,2015-07-22 18:17:29.232,0,1
+2015-07-22 18:17:41.541,101.221.136.171,2.3E-5,0.004193,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.2.2,0.004236,2015-07-22 18:17:39.024,0,1
+2015-07-22 18:17:58.74,101.221.136.171,2.3E-5,0.001709,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/flexslider/flexslider.css?ver=2.2.0,0.001752,2015-07-22 18:17:41.541,0,1
+2015-07-22 18:18:37.905,101.221.136.171,2.3E-5,0.002514,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/css/flexslider.css?ver=4.2.2,0.002557,2015-07-22 18:17:58.74,0,1
+2015-07-22 18:18:39.557,101.221.136.171,2.3E-5,0.001746,1.6E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4,0.001785,2015-07-22 18:18:37.905,0,1
+2015-07-22 18:18:55.899,101.221.136.171,2.1E-5,0.002564,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2015/03/Screenshot-Wallet_P2P-money-transfer.jpg,0.0026079998,2015-07-22 18:18:39.557,0,1
+2015-07-22 18:19:22.554,101.221.136.171,2.2E-5,0.001507,2.3E-5,https://paytm.com:443/offer/wp-includes/images/smilies/simple-smile.png,0.001552,2015-07-22 18:18:55.899,0,1
+2015-07-22 18:19:52.577,101.221.136.171,2.3E-5,0.002392,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/jcarouselresponsive.css?ver=4.2.2,0.002436,2015-07-22 18:19:22.554,0,1
+2015-07-22 18:20:04.961,101.221.136.171,2.0E-5,0.003095,2.1E-5,https://paytm.com:443/help,0.003136,2015-07-22 18:19:52.577,0,1
+2015-07-22 18:20:06.821,101.221.136.171,2.1E-5,0.001796,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/style-admin.css?ver=4.2.2,0.0018380001,2015-07-22 18:20:04.961,0,1
+2015-07-22 18:20:11.35,101.221.136.171,2.2E-5,0.00237,2.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/l-box-js.js?ver=4.2.2,0.0024209998,2015-07-22 18:20:06.821,0,1
+2015-07-22 18:20:22.531,101.221.136.171,2.3E-5,0.002829,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20,0.0028749998,2015-07-22 18:20:11.35,0,1
+2015-07-22 18:20:25.239,101.221.136.171,2.1E-5,0.0019,1.4E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.0019350001,2015-07-22 18:20:22.531,0,1
+2015-07-22 18:20:32.465,101.221.136.171,2.2E-5,0.002428,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/facebook-share.png,0.00247,2015-07-22 18:20:25.239,0,1
+2015-07-22 18:20:37.285,101.221.136.171,2.2E-5,0.001635,2.5E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/specificfeeds_follow.png,0.001682,2015-07-22 18:20:32.465,0,1
+2015-07-22 18:20:55.485,101.221.136.171,2.1E-5,0.001878,2.6E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9,0.001925,2015-07-22 18:20:37.285,0,1
+2015-07-22 18:21:18.503,101.221.136.171,2.1E-5,0.001524,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1,0.001566,2015-07-22 18:20:55.485,0,1
+2015-07-22 16:21:20.533,101.222.177.236,2.4E-5,0.060848,2.1E-5,https://paytm.com:443/shop/cart,0.060893,,1,1
+2015-07-22 16:28:12.265,101.222.177.236,2.1E-5,2.07E-4,2.3E-5,https://paytm.com:443/shop/search/?merchant=29253&mn=AASS%20Retail,2.51E-4,2015-07-22 16:21:20.533,0,1
+2015-07-22 16:31:04.54,101.222.177.236,2.3E-5,0.004625,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/13056622/offers?parent_id=2304257,0.00467,2015-07-22 16:28:12.265,0,1
+2015-07-22 16:32:09.522,101.222.177.236,2.6E-5,0.001035,2.0E-5,http://paytm.com:80/shop/search?merchant=29253&mn=AASS%20Retail,0.001081,2015-07-22 16:31:04.54,0,1
+2015-07-22 16:33:39.886,101.222.177.236,2.4E-5,0.004776,2.0E-5,https://paytm.com:443/papi/v1/promosearch/product/5374160/offers?parent_id=2801660,0.0048200004,2015-07-22 16:32:09.522,0,1
+2015-07-22 16:33:44.265,101.222.177.236,2.6E-5,0.08846,2.2E-5,https://paytm.com:443/shop/cart,0.088508,2015-07-22 16:33:39.886,0,1
+2015-07-22 16:34:43.096,101.222.177.236,2.3E-5,0.005183,2.3E-5,https://paytm.com:443/shop/search?merchant=29253&mn=AASS%20Retail,0.005229,2015-07-22 16:33:44.265,0,1
+2015-07-22 02:43:13.091,101.222.227.76,2.2E-5,0.004596,2.2E-5,https://paytm.com:443/shop/g/gifts-and-sweets/dry-fruits,0.0046400004,,1,1
+2015-07-22 02:44:25.26,101.222.227.76,2.3E-5,0.009416,2.2E-5,https://paytm.com:443/shop/cart,0.009461,2015-07-22 02:43:13.091,0,1
+2015-07-22 02:50:31.1,101.222.227.76,2.2E-5,0.003324,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/7238829/offers?parent_id=null,0.0033669998,2015-07-22 02:44:25.26,0,1
+2015-07-22 02:52:15.128,101.222.227.76,2.4E-5,0.011064,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/11437725/offers?parent_id=null,0.011109001,2015-07-22 02:50:31.1,0,1
+2015-07-22 02:53:29.795,101.222.227.76,2.5E-5,0.008299,2.3E-5,https://paytm.com:443/shop/cart,0.008347,2015-07-22 02:52:15.128,0,1
+2015-07-22 02:53:37.96,101.222.227.76,2.5E-5,0.001084,2.2E-5,https://paytm.com:443/favicon.ico,0.001131,2015-07-22 02:53:29.795,0,1
+2015-07-22 02:58:39.45,101.222.227.76,2.7E-5,0.005177,2.7E-5,https://paytm.com:443/shop/g/gifts-and-sweets/dry-fruits,0.005231,2015-07-22 02:53:37.96,0,1
+2015-07-22 16:50:15.562,101.222.231.80,2.4E-5,0.004509,1.6E-5,https://paytm.com:443/,0.0045490004,,1,1
+2015-07-22 16:51:52.388,101.222.231.80,2.4E-5,0.008651,2.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.008700001,2015-07-22 16:50:15.562,0,1
+2015-07-22 16:57:54.574,101.222.231.80,2.4E-5,2.84E-4,1.6E-5,https://paytm.com:443/favicon.ico,3.2400002E-4,2015-07-22 16:51:52.388,0,1
+2015-07-22 17:46:44.294,101.222.245.58,2.1E-5,0.003713,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.003755,,1,1
+2015-07-22 17:46:49.397,101.222.245.58,2.4E-5,0.004545,2.1E-5,https://paytm.com:443/login,0.00459,2015-07-22 17:46:44.294,0,1
+2015-07-22 17:49:09.337,101.222.245.58,2.4E-5,0.010504,1.5E-5,https://paytm.com:443/shop/cart,0.010543,2015-07-22 17:46:49.397,0,1
+2015-07-22 16:14:24.225,101.56.127.32,2.3E-5,0.004238,2.6E-5,https://paytm.com:443/,0.0042870003,,1,1
+2015-07-22 16:16:27.822,101.56.127.32,2.1E-5,0.024042,2.0E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.024082998,2015-07-22 16:14:24.225,0,1
+2015-07-22 16:17:37.952,101.56.127.32,3.2E-5,0.008992,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009045,2015-07-22 16:16:27.822,0,1
+2015-07-22 16:22:04.992,101.56.127.32,2.3E-5,2.07E-4,2.3E-5,http://www.paytm.com:80/,2.53E-4,2015-07-22 16:17:37.952,0,1
+2015-07-22 16:22:19.289,101.56.127.32,1.9E-5,0.00105,2.1E-5,https://paytm.com:443/favicon.ico,0.00109,2015-07-22 16:22:04.992,0,1
+2015-07-22 16:23:10.407,101.56.127.32,2.1E-5,0.004012,2.0E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.004053,2015-07-22 16:22:19.289,0,1
+2015-07-22 16:26:29.105,101.56.127.32,2.5E-5,0.019331,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.019378,2015-07-22 16:23:10.407,0,1
+2015-07-22 17:47:11.155,101.58.203.237,2.3E-5,0.005149,2.1E-5,https://paytm.com:443/,0.0051929997,,1,1
+2015-07-22 17:55:50.914,101.58.203.237,2.3E-5,2.52E-4,2.2E-5,http://www.paytm.com:80/,2.97E-4,2015-07-22 17:47:11.155,0,1
+2015-07-22 16:20:02.314,101.58.4.128,2.6E-5,0.166003,2.5E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1,0.16605401,,1,1
+2015-07-22 16:20:17.667,101.58.4.128,2.1E-5,0.032575,2.0E-5,https://paytm.com:443/shop/authresponse?code=4d461242-3844-447a-88a7-cb76dc76aaac&state=null,0.032616,2015-07-22 16:20:02.314,0,1
+2015-07-22 16:23:44.069,101.58.4.128,2.9E-5,0.006019,2.1E-5,https://paytm.com:443/login,0.006069,2015-07-22 16:20:17.667,0,1
+2015-07-22 16:26:48.11,101.58.4.128,2.0E-5,0.003535,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.0035759998,2015-07-22 16:23:44.069,0,1
+2015-07-22 16:26:56.828,101.58.4.128,2.5E-5,0.023618,2.4E-5,https://paytm.com:443/shop/cart,0.023667,2015-07-22 16:26:48.11,0,1
+2015-07-22 16:44:39.789,101.59.166.30,2.5E-5,0.004914,2.1E-5,https://paytm.com:443/,0.00496,,1,1
+2015-07-22 16:46:34.268,101.59.166.30,2.1E-5,0.001053,2.2E-5,https://paytm.com:443/favicon.ico,0.0010960001,2015-07-22 16:44:39.789,0,1
+2015-07-22 16:49:07.607,101.59.166.30,2.1E-5,0.003722,2.1E-5,https://paytm.com:443/styles/app.css,0.0037639998,2015-07-22 16:46:34.268,0,1
+2015-07-22 16:58:01.864,101.59.166.30,2.3E-5,0.007415,2.1E-5,https://paytm.com:443/,0.0074589998,2015-07-22 16:49:07.607,0,1
+2015-07-22 16:45:12.773,101.59.232.133,2.5E-5,0.025378,2.5E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.025428,,1,1
+2015-07-22 16:45:38.983,101.59.232.133,2.3E-5,0.014546,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.0145890005,2015-07-22 16:45:12.773,0,1
+2015-07-22 16:46:03.508,101.59.232.133,2.0E-5,0.005693,2.1E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.005734,2015-07-22 16:45:38.983,0,1
+2015-07-22 16:46:21.251,101.59.232.133,2.4E-5,0.005404,2.1E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.0054490003,2015-07-22 16:46:03.508,0,1
+2015-07-22 16:51:07.113,101.59.232.133,2.3E-5,0.002459,2.0E-5,https://paytm.com:443/shop/log,0.002502,2015-07-22 16:46:21.251,0,1
+2015-07-22 16:51:59.796,101.59.232.133,2.2E-5,0.002558,2.0E-5,https://paytm.com:443/shop/log,0.0025999998,2015-07-22 16:51:07.113,0,1
+2015-07-22 16:54:01.34,101.59.232.133,2.3E-5,0.019267,1.5E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.019305,2015-07-22 16:51:59.796,0,1
+2015-07-22 16:55:13.009,101.59.232.133,2.4E-5,0.010299,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.010343,2015-07-22 16:54:01.34,0,1
+2015-07-22 17:01:04.228,101.59.232.133,2.5E-5,0.005608,1.4E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.005647,2015-07-22 16:55:13.009,0,1
+2015-07-22 10:54:50.814,101.60.209.63,2.1E-5,0.003308,1.4E-5,https://paytm.com:443/papi/v1/promosearch/product/11178942/offers?parent_id=null,0.003343,,1,1
+2015-07-22 17:46:09.325,101.62.149.93,2.2E-5,0.006456,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=21294&channel=web&version=2,0.0065,,1,1
+2015-07-22 17:47:36.682,101.62.149.93,2.5E-5,0.061695,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.06174,2015-07-22 17:46:09.325,0,1
+2015-07-22 17:51:28.229,101.62.149.93,2.4E-5,0.00687,2.3E-5,https://paytm.com:443/shop/p/homefab-india-blue-cotton-double-bedsheet-with-2-pillow-covers-HOMHOMEFAB-INDIHOME21294802F26FE,0.0069170003,2015-07-22 17:47:36.682,0,1
+2015-07-22 17:54:39.572,101.62.149.93,2.4E-5,0.031881,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.031926,2015-07-22 17:51:28.229,0,1
+2015-07-22 11:06:59.186,101.62.218.177,2.1E-5,0.0044,2.3E-5,https://paytm.com:443/shop/h/electronics?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM-generic&utm_term=24890,0.004444,,1,1
+2015-07-22 11:19:04.094,101.62.218.177,2.2E-5,0.013137,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.01318,2015-07-22 11:06:59.186,0,1
+2015-07-22 16:23:30.718,101.62.233.143,2.6E-5,0.00954,1.4E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009579999,,1,1
+2015-07-22 16:27:40.837,101.62.233.143,2.2E-5,0.018158,2.1E-5,https://paytm.com:443/shop/orderdetail/1117855256?channel=web&version=2,0.018201,2015-07-22 16:23:30.718,0,1
+2015-07-22 16:34:58.687,101.62.233.143,2.4E-5,0.004807,1.4E-5,https://paytm.com:443/shop/summary/1117855256,0.0048450003,2015-07-22 16:27:40.837,0,1
+2015-07-22 16:35:40.766,101.62.233.143,2.4E-5,0.018578,2.1E-5,https://paytm.com:443/api/user/favourite?channel=web&version=2,0.018623,2015-07-22 16:34:58.687,0,1
+2015-07-22 10:54:30.009,101.63.69.105,2.2E-5,0.018956,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.018999,,1,1
+2015-07-22 10:59:56.748,101.63.69.105,2.5E-5,0.021533,2.5E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.021583,2015-07-22 10:54:30.009,0,1
+2015-07-22 18:14:12.374,103.11.116.170,2.1E-5,0.004289,1.6E-5,https://paytm.com:443/shop/g/men/the-men-s-store/innerwear-sleepwear?utm_source=affiliate&utm_medium=innovativelead&utm_campaign=innovativelead-generic&utm_term=26,0.004326,,1,1
+2015-07-22 10:41:11.794,103.12.119.174,2.7E-5,3.1E-4,2.5E-5,https://paytm.com:443/favicon.ico,3.62E-4,,1,1
+2015-07-22 10:41:22.945,103.12.119.174,2.1E-5,0.003148,2.1E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=24890,0.0031899998,2015-07-22 10:41:11.794,0,1
+2015-07-22 10:49:05.308,103.12.119.174,2.3E-5,0.011154,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011198,2015-07-22 10:41:22.945,0,1
+2015-07-22 16:21:30.282,103.12.119.174,2.2E-5,0.00483,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/6488115/offers?parent_id=6488568,0.004873,2015-07-22 10:49:05.308,1,2
+2015-07-22 16:22:06.627,103.12.119.174,2.3E-5,0.003869,2.5E-5,https://paytm.com:443/papi/v1/promosearch/product/6488033/offers?parent_id=6488528,0.003917,2015-07-22 16:21:30.282,0,2
+2015-07-22 16:22:17.361,103.12.119.174,2.3E-5,0.00411,2.1E-5,https://paytm.com:443/shop/p/shopgrab-cartoon-print-double-bedsheet-with-2-pillow-covers-HOMSHOPGRAB-CARSHOP2154623CBF2C5,0.004154,2015-07-22 16:22:06.627,0,2
+2015-07-22 16:28:07.061,103.12.119.174,2.2E-5,0.007538,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/6488026/offers?parent_id=6488512,0.0075820005,2015-07-22 16:22:17.361,0,2
+2015-07-22 16:29:26.244,103.12.119.174,2.1E-5,0.005422,2.4E-5,https://paytm.com:443/papi/v1/promosearch/product/14813128/offers?parent_id=null,0.005467,2015-07-22 16:28:07.061,0,2
+2015-07-22 16:36:05.133,103.12.119.174,2.3E-5,0.010993,1.5E-5,https://paytm.com:443/papi/v1/promosearch/product/8361152/offers?parent_id=null,0.011031,2015-07-22 16:29:26.244,0,2
+2015-07-22 18:03:18.765,103.15.63.232,2.5E-5,0.007759,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/1707154/offers?parent_id=4789721,0.007805,,1,1
+2015-07-22 18:05:46.477,103.15.63.232,2.5E-5,0.003881,1.5E-5,https://paytm.com:443/papi/v1/promosearch/product/5251255/offers?parent_id=null,0.003921,2015-07-22 18:03:18.765,0,1
+2015-07-22 18:07:02.644,103.15.63.232,2.3E-5,0.011382,2.0E-5,https://paytm.com:443/shop/cart,0.011425,2015-07-22 18:05:46.477,0,1
+2015-07-22 18:08:57.357,103.15.63.232,2.3E-5,0.003618,2.3E-5,https://paytm.com:443/shop/p/handloomdaddy-doremon-design-cotton-double-bed-sheet-with-two-pillow-cover-HPILOW000DORMN01HDMUFR,0.003664,2015-07-22 18:07:02.644,0,1
+2015-07-22 18:08:59.249,103.15.63.232,2.1E-5,0.003709,2.0E-5,https://paytm.com:443/shop/p/shoping-edge-cotton-double-bedsheet-with-2-pillow-covers-HHDECR00000BS020DENAFR,0.00375,2015-07-22 18:08:57.357,0,1
+2015-07-22 18:09:39.43,103.15.63.232,2.4E-5,0.004082,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/12026522/offers?parent_id=null,0.004127,2015-07-22 18:08:59.249,0,1
+2015-07-22 18:13:47.155,103.15.63.232,2.4E-5,0.019764,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/2080312/offers?parent_id=4789824,0.019809,2015-07-22 18:09:39.43,0,1
+2015-07-22 18:14:10.95,103.15.63.232,2.3E-5,0.004332,2.1E-5,https://paytm.com:443/shop/p/handloomdaddy-bombay-mills-2-single-bedsheet-and-2-pillow-cover-HHDCOR0000BMBS01HDBLFR,0.004376,2015-07-22 18:13:47.155,0,1
+2015-07-22 09:13:28.667,103.15.66.130,2.4E-5,0.005268,2.4E-5,https://paytm.com:443/,0.0053160004,,1,1
+2015-07-22 09:19:29.958,103.15.66.130,2.5E-5,0.013242,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.013288001,2015-07-22 09:13:28.667,0,1
+2015-07-22 10:33:57.051,103.17.129.167,2.0E-5,0.005376,1.4E-5,https://paytm.com:443/shop/p/riot-grey-polyester-tunic-size-xl-APPRIOT-GREY-PORIOT24722E2E55849,0.00541,,1,1
+2015-07-22 10:34:52.112,103.17.129.167,2.2E-5,0.006249,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=24722&channel=web&version=2,0.006292,2015-07-22 10:33:57.051,0,1
+2015-07-22 10:35:47.16,103.17.129.167,2.1E-5,0.006696,2.3E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=20344&channel=web&version=2,0.00674,2015-07-22 10:34:52.112,0,1
+2015-07-22 10:35:48.741,103.17.129.167,2.3E-5,0.004949,2.4E-5,https://paytm.com:443/papi/v1/promosearch/product/14214402/offers?parent_id=14215940&price=246&channel=web&version=2,0.0049960003,2015-07-22 10:35:47.16,0,1
+2015-07-22 10:36:09.663,103.17.129.167,2.3E-5,0.005286,1.5E-5,https://paytm.com:443/papi/v1/promosearch/product/17478915/offers?parent_id=17479115&price=779&channel=web&version=2,0.005324,2015-07-22 10:35:48.741,0,1
+2015-07-22 10:36:31.386,103.17.129.167,2.4E-5,0.04583,1.4E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.045868,2015-07-22 10:36:09.663,0,1
+2015-07-22 10:37:09.394,103.17.129.167,2.3E-5,0.005753,2.0E-5,https://paytm.com:443/papi/rr/products/17478915/statistics?channel=web&version=2,0.005796,2015-07-22 10:36:31.386,0,1
+2015-07-22 10:37:11.346,103.17.129.167,2.3E-5,0.005567,2.0E-5,https://paytm.com:443/papi/rr/products/14214402/statistics?channel=web&version=2,0.00561,2015-07-22 10:37:09.394,0,1
+2015-07-22 10:37:54.761,103.17.129.167,2.5E-5,0.004617,2.1E-5,https://paytm.com:443/shop/p/peri-peri-red-cotton-panty-size-m-APPPERI-PERI-REFASH2034497D0E880,0.004663,2015-07-22 10:37:11.346,0,1
+2015-07-22 10:38:49.509,103.17.129.167,2.2E-5,0.052283,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.052327003,2015-07-22 10:37:54.761,0,1
+2015-07-22 10:44:57.972,103.17.129.167,2.3E-5,0.00616,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/17478916/offers?parent_id=17479115&price=779&channel=web&version=2,0.006205,2015-07-22 10:38:49.509,0,1
+2015-07-22 10:44:58.915,103.17.129.167,2.1E-5,0.00585,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=24722&channel=web&version=2,0.0058919997,2015-07-22 10:44:57.972,0,1
+2015-07-22 21:07:28.242,103.2.134.200,2.3E-5,0.009691,2.4E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009738,,1,1
+2015-07-22 21:14:51.019,103.2.134.200,2.3E-5,0.008425,2.2E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=24890,0.00847,2015-07-22 21:07:28.242,0,1
+2015-07-22 21:17:40.118,103.2.134.200,2.3E-5,0.001188,2.2E-5,https://paytm.com:443/favicon.ico,0.001233,2015-07-22 21:14:51.019,0,1
+2015-07-22 16:23:57.983,103.226.171.45,2.1E-5,0.007416,1.9E-5,https://paytm.com:443/papi/rr/products/12632099/statistics?channel=web&version=2,0.007456,,1,1
+2015-07-22 16:28:34.114,103.226.171.45,2.4E-5,0.002661,2.1E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.0027059999,2015-07-22 16:23:57.983,0,1
+2015-07-22 16:31:13.494,103.226.171.45,2.3E-5,0.004568,2.1E-5,https://paytm.com:443/shop,0.0046119997,2015-07-22 16:28:34.114,0,1
+2015-07-22 16:39:19.823,103.226.171.45,2.0E-5,0.005891,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=51116&channel=web&version=2,0.005932,2015-07-22 16:31:13.494,0,1
+2015-07-22 16:39:29.099,103.226.171.45,4.0E-5,0.003746,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/12632099/offers?parent_id=12632100&price=666&channel=web&version=2,0.003807,2015-07-22 16:39:19.823,0,1
+2015-07-22 16:40:34.681,103.226.171.45,2.3E-5,0.009839,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.0098830005,2015-07-22 16:39:29.099,0,1
+2015-07-22 07:03:43.911,103.228.145.150,2.6E-5,2.12E-4,2.0E-5,http://www.paytm.com:80/,2.58E-4,,1,1
+2015-07-22 11:02:30.175,103.232.129.70,2.3E-5,0.00569,1.5E-5,https://paytm.com:443/coupons?utm_source=Affiliates&utm_medium=Payoom&utm_campaign=Payoom,0.005728,,1,1
+2015-07-22 11:04:34.213,103.232.129.70,2.4E-5,0.008634,3.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.0086900005,2015-07-22 11:02:30.175,0,1
+2015-07-22 11:06:18.852,103.232.129.70,2.1E-5,0.026674,2.3E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.026718,2015-07-22 11:04:34.213,0,1
+2015-07-22 11:06:23.576,103.232.129.70,2.2E-5,0.011406,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011448,2015-07-22 11:06:18.852,0,1
+2015-07-22 11:09:13.139,103.232.129.70,2.1E-5,0.006513,2.1E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=buyhatke&utm_campaign=buyhatke-generic,0.006555,2015-07-22 11:06:23.576,0,1
+2015-07-22 11:11:11.414,103.232.129.70,2.3E-5,0.028849,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.028894,2015-07-22 11:09:13.139,0,1
+2015-07-22 11:12:03.488,103.232.129.70,2.0E-5,0.204098,2.1E-5,https://paytm.com:443/shop/wallet/txnhistory?page_size=10&page_number=0&channel=web&version=2,0.204139,2015-07-22 11:11:11.414,0,1
+2015-07-22 11:12:04.812,103.232.129.70,2.0E-5,0.120304,1.6E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.12034,2015-07-22 11:12:03.488,0,1
+2015-07-22 11:16:46.898,103.232.129.70,2.3E-5,0.002942,2.1E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.002986,2015-07-22 11:12:04.812,0,1
+2015-07-22 11:17:30.465,103.232.129.70,2.1E-5,0.005644,2.1E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=buyhatke&utm_campaign=buyhatke-generic,0.005686,2015-07-22 11:16:46.898,0,1
+2015-07-22 11:17:57.61,103.232.129.70,2.1E-5,0.00644,2.0E-5,https://paytm.com:443/shop,0.006481,2015-07-22 11:17:30.465,0,1
+2015-07-22 11:05:25.27,103.252.24.52,2.2E-5,0.005456,2.1E-5,https://paytm.com:443/shop/summary/undefined,0.005499,,1,1
+2015-07-22 10:55:39.203,103.26.50.14,2.0E-5,0.005916,2.1E-5,https://paytm.com:443/papi/rr/products/4342038/statistics?channel=web&version=2,0.005957,,1,1
+2015-07-22 10:56:58.794,103.26.50.14,2.2E-5,0.003873,1.6E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=20403&channel=web&version=2,0.0039109997,2015-07-22 10:55:39.203,0,1
+2015-07-22 10:57:03.356,103.26.50.14,2.2E-5,0.006268,2.0E-5,https://paytm.com:443/papi/v1/promosearch/product/4342038/offers?parent_id=0&price=499&channel=web&version=2,0.0063100006,2015-07-22 10:56:58.794,0,1
+2015-07-22 09:04:05.512,103.36.149.7,2.2E-5,0.001897,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.0019400001,,1,1
+2015-07-22 09:04:24.225,103.36.149.7,2.4E-5,0.012944,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.012989,2015-07-22 09:04:05.512,0,1
+2015-07-22 09:04:36.014,103.36.149.7,2.8E-5,0.001091,2.2E-5,https://paytm.com:443/favicon.ico,0.0011410001,2015-07-22 09:04:24.225,0,1
+2015-07-22 09:04:49.664,103.36.149.7,2.6E-5,0.014335,2.1E-5,https://paytm.com:443/shop/orderdetail/1116109380,0.014382,2015-07-22 09:04:36.014,0,1
+2015-07-22 09:04:55.648,103.36.149.7,2.4E-5,0.00949,2.0E-5,https://paytm.com:443/shop/cart,0.009534,2015-07-22 09:04:49.664,0,1
+2015-07-22 09:06:27.636,103.36.149.7,2.1E-5,2.29E-4,2.2E-5,https://paytm.com:443/favicon.ico,2.7199998E-4,2015-07-22 09:04:55.648,0,1
+2015-07-22 09:09:24.049,103.36.149.7,2.2E-5,0.008959,2.4E-5,https://paytm.com:443/shop/cart,0.009005,2015-07-22 09:06:27.636,0,1
+2015-07-22 09:09:45.015,103.36.149.7,2.2E-5,0.003407,1.5E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.0034440001,2015-07-22 09:09:24.049,0,1
+2015-07-22 09:10:53.121,103.36.149.7,2.3E-5,0.021405,2.1E-5,https://paytm.com:443/shop/orderdetail/1116109380,0.021449,2015-07-22 09:09:45.015,0,1
+2015-07-22 09:11:32.516,103.36.149.7,2.1E-5,0.001659,2.1E-5,https://paytm.com:443/shop/logout,0.001701,2015-07-22 09:10:53.121,0,1
+2015-07-22 09:11:55.9,103.36.149.7,2.9E-5,0.006018,2.2E-5,https://paytm.com:443/shop/summary/1116109380,0.0060690003,2015-07-22 09:11:32.516,0,1
+2015-07-22 09:12:02.894,103.36.149.7,2.3E-5,0.002861,2.1E-5,https://paytm.com:443/login,0.0029049998,2015-07-22 09:11:55.9,0,1
+2015-07-22 09:12:24.376,103.36.149.7,2.3E-5,0.003124,2.2E-5,https://paytm.com:443/shop,0.003169,2015-07-22 09:12:02.894,0,1
+2015-07-22 09:13:31.492,103.36.149.7,2.3E-5,0.015769,2.1E-5,https://paytm.com:443/shop/cart,0.015812999,2015-07-22 09:12:24.376,0,1
+2015-07-22 09:13:32.503,103.36.149.7,2.3E-5,0.001098,1.6E-5,https://paytm.com:443/favicon.ico,0.0011369999,2015-07-22 09:13:31.492,0,1
+2015-07-22 09:13:51.862,103.36.149.7,2.3E-5,0.031581,1.5E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.031619,2015-07-22 09:13:32.503,0,1
+2015-07-22 09:14:01.746,103.36.149.7,2.4E-5,0.014263,2.1E-5,https://paytm.com:443/shop/cart,0.014308001,2015-07-22 09:13:51.862,0,1
+2015-07-22 09:16:15.152,103.36.149.7,2.3E-5,0.006619,2.1E-5,https://paytm.com:443/,0.0066629997,2015-07-22 09:14:01.746,0,1
+2015-07-22 09:16:39.438,103.36.149.7,2.2E-5,0.181095,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.181138,2015-07-22 09:16:15.152,0,1
+2015-07-22 09:17:03.004,103.36.149.7,2.4E-5,0.005479,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.005524,2015-07-22 09:16:39.438,0,1
+2015-07-22 09:18:24.238,103.36.149.7,2.2E-5,0.019385,2.3E-5,https://paytm.com:443/shop/summary/1116109380,0.01943,2015-07-22 09:17:03.004,0,1
+2015-07-22 10:41:42.448,103.36.149.7,2.2E-5,0.003122,2.1E-5,https://paytm.com:443/,0.003165,2015-07-22 09:18:24.238,1,2
+2015-07-22 10:41:57.332,103.36.149.7,2.5E-5,0.006938,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.006984,2015-07-22 10:41:42.448,0,2
+2015-07-22 02:56:59.89,103.37.201.63,2.1E-5,0.004302,2.1E-5,https://paytm.com:443/papi/rr/products/7493361/statistics?channel=web&version=2,0.004344,,1,1
+2015-07-22 17:44:17.287,103.37.201.63,2.1E-5,2.27E-4,2.1E-5,https://paytm.com:443/favicon.ico,2.69E-4,2015-07-22 02:56:59.89,1,2
+2015-07-22 17:49:13.489,103.37.201.63,2.5E-5,0.004951,1.5E-5,https://paytm.com:443/shop/p/wd-elements-2-5-inch-1-tb-external-hard-disk-black-cmplxwd_elements_1tb_black_168,0.004991,2015-07-22 17:44:17.287,0,2
+2015-07-22 17:49:14.865,103.37.201.63,2.5E-5,0.009727,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009775001,2015-07-22 17:49:13.489,0,2
+2015-07-22 17:49:20.179,103.37.201.63,2.5E-5,0.002863,2.1E-5,https://paytm.com:443/,0.0029089998,2015-07-22 17:49:14.865,0,2
+2015-07-22 17:49:27.889,103.37.201.63,2.3E-5,0.017974,2.4E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.018021,2015-07-22 17:49:20.179,0,2
+2015-07-22 17:51:20.028,103.37.201.63,2.5E-5,0.005469,3.0E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=22225&channel=web&version=2,0.005524,2015-07-22 17:49:27.889,0,2
+2015-07-22 17:51:20.096,103.37.201.63,3.3E-5,0.004984,2.4E-5,https://paytm.com:443/papi/v1/promosearch/product/4246285/offers?parent_id=252017&price=4305&channel=web&version=2,0.0050410004,2015-07-22 17:51:20.028,0,2
+2015-07-22 17:53:06.011,103.37.201.63,3.3E-5,0.004105,1.5E-5,https://paytm.com:443/papi/rr/products/4246285/statistics?channel=web&version=2,0.0041529997,2015-07-22 17:51:20.096,0,2
+2015-07-22 18:03:37.101,103.37.201.63,2.3E-5,0.004425,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=42170&channel=web&version=2,0.00447,2015-07-22 17:53:06.011,0,2
+2015-07-22 18:03:52.076,103.37.201.63,2.0E-5,0.020564,1.5E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.020598998,2015-07-22 18:03:37.101,0,2
+2015-07-22 18:04:10.782,103.37.201.63,2.8E-5,0.010554,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.010602,2015-07-22 18:03:52.076,0,2
+2015-07-22 18:04:14.838,103.37.201.63,1.9E-5,0.004246,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/15572380/offers?parent_id=252009&price=6875&channel=web&version=2,0.0042870003,2015-07-22 18:04:10.782,0,2
+2015-07-22 18:04:39.866,103.37.201.63,2.9E-5,0.026175,2.1E-5,https://paytm.com:443/shop/orderdetail/1118060712?actions=1&channel=web&version=2,0.026224999,2015-07-22 18:04:14.838,0,2
+2015-07-22 18:05:41.019,103.37.201.63,2.0E-5,0.006498,2.0E-5,https://paytm.com:443/papi/rr/products/15572380/statistics?channel=web&version=2,0.0065380004,2015-07-22 18:04:39.866,0,2
+2015-07-22 18:06:45.685,103.37.201.63,2.3E-5,0.032742,2.1E-5,https://paytm.com:443/shop/orderhistory?pagesize=10&channel=web&version=2,0.032786,2015-07-22 18:05:41.019,0,2
+2015-07-22 18:06:46.343,103.37.201.63,2.5E-5,0.124692,1.9E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.124735996,2015-07-22 18:06:45.685,0,2
+2015-07-22 18:08:41.395,103.37.201.63,2.5E-5,0.00575,1.5E-5,https://paytm.com:443/,0.00579,2015-07-22 18:06:46.343,0,2
+2015-07-22 18:09:33.392,103.37.201.63,2.5E-5,0.009586,2.2E-5,https://paytm.com:443/papi/nps/merchantverification,0.009633,2015-07-22 18:08:41.395,0,2
+2015-07-22 18:13:25.608,103.37.201.63,2.1E-5,0.007733,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.007774,2015-07-22 18:09:33.392,0,2
+2015-07-22 18:14:00.794,103.37.201.63,2.2E-5,0.004506,2.3E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=20098&channel=web&version=2,0.004551,2015-07-22 18:13:25.608,0,2
+2015-07-22 18:14:12.156,103.37.201.63,2.3E-5,0.003501,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/4450415/offers?parent_id=4450568&price=1836&channel=web&version=2,0.003545,2015-07-22 18:14:00.794,0,2
+2015-07-22 18:15:10.291,103.37.201.63,2.4E-5,0.005186,2.4E-5,https://paytm.com:443/papi/rr/products/4450415/statistics?channel=web&version=2,0.0052340003,2015-07-22 18:14:12.156,0,2
+2015-07-22 18:16:08.91,103.37.201.63,2.2E-5,0.003752,2.3E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0037969998,2015-07-22 18:15:10.291,0,2
+2015-07-22 18:16:24.873,103.37.201.63,2.5E-5,0.025306,2.1E-5,https://paytm.com:443/shop/authresponse?code=45da22ba-7d86-4809-9c58-5cba0c2efdb7,0.025352,2015-07-22 18:16:08.91,0,2
+2015-07-22 17:43:36.443,103.38.245.206,2.0E-5,0.007037,2.1E-5,https://paytm.com:443/shop/cart,0.007078,,1,1
+2015-07-22 17:53:48.384,103.38.245.206,2.3E-5,0.005327,2.5E-5,https://paytm.com:443/,0.0053749997,2015-07-22 17:43:36.443,0,1
+2015-07-22 16:11:51.379,103.38.246.7,2.1E-5,0.006975,2.5E-5,https://paytm.com:443/papi/rr/products/11414907/statistics?channel=web&version=2,0.0070209997,,1,1
+2015-07-22 16:12:26.417,103.38.246.7,2.3E-5,0.010502,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.010545,2015-07-22 16:11:51.379,0,1
+2015-07-22 16:15:16.207,103.38.246.7,2.4E-5,0.00995,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/2298665/offers?parent_id=2306940&price=499&channel=web&version=2,0.009995,2015-07-22 16:12:26.417,0,1
+2015-07-22 16:15:16.885,103.38.246.7,2.1E-5,0.006592,2.3E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=180&channel=web&version=2,0.006636,2015-07-22 16:15:16.207,0,1
+2015-07-22 16:18:51.752,103.38.246.7,2.2E-5,0.00447,2.3E-5,https://paytm.com:443/shop/p/footnstyle-stylish-black-casual-shoe-size-6-MFRMAL00000FS309FYBK66,0.004515,2015-07-22 16:15:16.885,0,1
+2015-07-22 16:19:20.58,103.38.246.7,2.5E-5,0.006466,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=180&channel=web&version=2,0.006513,2015-07-22 16:18:51.752,0,1
+2015-07-22 16:19:22.424,103.38.246.7,2.2E-5,0.02641,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/2298580/offers?parent_id=2306940&price=499&channel=web&version=2,0.026454,2015-07-22 16:19:20.58,0,1
+2015-07-22 16:19:29.94,103.38.246.7,2.3E-5,0.003921,2.0E-5,https://paytm.com:443/shop/p/juan-david-black-formal-shoes-size-40-FOOJUAN-DAVID-BNELL26950F99BF984_56863,0.003964,2015-07-22 16:19:22.424,0,1
+2015-07-22 16:22:40.55,103.38.246.7,2.1E-5,0.00763,2.3E-5,https://paytm.com:443/papi/rr/products/2298580/statistics?channel=web&version=2,0.0076739998,2015-07-22 16:19:29.94,0,1
+2015-07-22 16:23:00.019,103.38.246.7,2.6E-5,0.011923,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.01197,2015-07-22 16:22:40.55,0,1
+2015-07-22 16:26:12.564,103.38.246.7,2.4E-5,0.007565,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=56863&channel=web&version=2,0.0076110004,2015-07-22 16:23:00.019,0,1
+2015-07-22 16:27:13.295,103.38.246.7,2.5E-5,0.010882,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/11414907/offers?parent_id=11384278&price=499&channel=web&version=2,0.010928001,2015-07-22 16:26:12.564,0,1
+2015-07-22 16:42:44.417,103.38.246.7,2.4E-5,0.003731,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0037759999,2015-07-22 16:27:13.295,0,1
+2015-07-22 16:43:41.364,103.38.246.7,2.4E-5,0.021769,2.4E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.021817,2015-07-22 16:42:44.417,0,1
+2015-07-22 16:43:42.415,103.38.246.7,2.1E-5,0.063452,2.3E-5,https://paytm.com:443/shop/cart,0.063496,2015-07-22 16:43:41.364,0,1
+2015-07-22 16:45:55.668,103.38.246.7,2.4E-5,0.12523,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.125275,2015-07-22 16:43:42.415,0,1
+2015-07-22 16:46:11.026,103.38.246.7,2.1E-5,0.005394,2.4E-5,https://paytm.com:443/shop,0.005439,2015-07-22 16:45:55.668,0,1
+2015-07-22 16:47:00.149,103.38.246.7,3.2E-5,0.03725,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.037304003,2015-07-22 16:46:11.026,0,1
+2015-07-22 16:47:22.976,103.38.246.7,2.4E-5,0.002905,2.0E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0029489999,2015-07-22 16:47:00.149,0,1
+2015-07-22 16:48:50.499,103.38.246.7,2.3E-5,0.005477,2.3E-5,https://paytm.com:443/shop,0.005523,2015-07-22 16:47:22.976,0,1
+2015-07-22 16:49:04.039,103.38.246.7,2.4E-5,0.023245,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.023289999,2015-07-22 16:48:50.499,0,1
+2015-07-22 16:49:05.282,103.38.246.7,2.4E-5,0.042647,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.042691,2015-07-22 16:49:04.039,0,1
+2015-07-22 16:50:45.748,103.38.246.7,2.6E-5,0.067949,3.2E-5,https://paytm.com:443/shop/cart,0.068007,2015-07-22 16:49:05.282,0,1
+2015-07-22 16:51:26.044,103.38.246.7,2.4E-5,0.004698,2.0E-5,https://paytm.com:443/shop,0.0047420003,2015-07-22 16:50:45.748,0,1
+2015-07-22 16:51:46.602,103.38.246.7,2.1E-5,0.006852,2.3E-5,https://paytm.com:443/shop,0.006896,2015-07-22 16:51:26.044,0,1
+2015-07-22 16:54:37.391,103.38.246.7,2.4E-5,0.009347,2.1E-5,https://paytm.com:443/shop,0.009392001,2015-07-22 16:51:46.602,0,1
+2015-07-22 16:55:30.982,103.38.246.7,2.5E-5,0.008049,2.3E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=67473&channel=web&version=2,0.008097,2015-07-22 16:54:37.391,0,1
+2015-07-22 16:55:31.975,103.38.246.7,2.3E-5,0.012381,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/15798237/offers?parent_id=15798247&price=449&channel=web&version=2,0.012426,2015-07-22 16:55:30.982,0,1
+2015-07-22 16:56:06.717,103.38.246.7,2.0E-5,0.004584,3.2E-5,https://paytm.com:443/shop,0.004636,2015-07-22 16:55:31.975,0,1
+2015-07-22 16:56:40.825,103.38.246.7,2.2E-5,0.005893,1.6E-5,https://paytm.com:443/papi/rr/products/15798237/statistics?channel=web&version=2,0.005931,2015-07-22 16:56:06.717,0,1
+2015-07-22 16:57:54.313,103.38.246.7,2.4E-5,0.020888,2.2E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.020934,2015-07-22 16:56:40.825,0,1
+2015-07-22 16:57:55.215,103.38.246.7,2.1E-5,0.042206,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.04225,2015-07-22 16:57:54.313,0,1
+2015-07-22 16:58:59.754,103.38.246.7,2.6E-5,0.064049,2.2E-5,https://paytm.com:443/shop/cart,0.064097,2015-07-22 16:57:55.215,0,1
+2015-07-22 17:00:00.333,103.38.246.7,2.1E-5,0.00417,2.2E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.004213,2015-07-22 16:58:59.754,0,1
+2015-07-22 10:36:25.478,103.44.118.198,2.3E-5,0.003372,2.1E-5,https://paytm.com:443/?utm_medium=affiliate&utm_source=Netcore_mailer&utm_campaign=ElectronicSale-20072015&utm_term=aff3-E,0.003416,,1,1
+2015-07-22 10:38:20.376,103.44.118.198,2.4E-5,0.003376,1.7E-5,https://paytm.com:443/?utm_medium=affiliate&utm_source=Netcore_mailer&utm_campaign=ElectronicSale-20072015&utm_term=aff3-E,0.003417,2015-07-22 10:36:25.478,0,1
+2015-07-22 10:43:34.069,103.44.118.198,2.4E-5,0.01277,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.012816,2015-07-22 10:38:20.376,0,1
+2015-07-22 10:50:05.135,103.44.118.198,2.5E-5,0.011385,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011432,2015-07-22 10:43:34.069,0,1
+2015-07-22 16:29:02.79,103.48.96.221,2.1E-5,0.004391,1.5E-5,https://paytm.com:443/shop?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=24890,0.004427,,1,1
+2015-07-22 10:42:44.622,103.50.80.151,2.1E-5,0.085598,1.9E-5,https://paytm.com:443/shop/log,0.085638,,1,1
+2015-07-22 10:45:00.382,103.50.80.151,2.3E-5,0.022787,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.022831999,2015-07-22 10:42:44.622,0,1
+2015-07-22 10:45:32.158,103.50.80.151,2.3E-5,0.002037,2.1E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.0020809998,2015-07-22 10:45:00.382,0,1
+2015-07-22 10:47:30.658,103.50.80.151,2.0E-5,0.001879,2.0E-5,https://paytm.com:443/shop/logout,0.0019190001,2015-07-22 10:45:32.158,0,1
+2015-07-22 10:48:17.99,103.50.80.151,2.1E-5,0.010201,2.2E-5,https://paytm.com:443/shop/cart,0.010244,2015-07-22 10:47:30.658,0,1
+2015-07-22 10:52:17.65,103.50.80.151,2.1E-5,0.006357,1.9E-5,https://paytm.com:443/shop,0.006397,2015-07-22 10:48:17.99,0,1
+2015-07-22 10:55:22.816,103.50.80.151,2.3E-5,0.13389,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.133935,2015-07-22 10:52:17.65,0,1
+2015-07-22 16:48:49.926,106.192.149.193,2.0E-5,0.031075,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.031116,,1,1
+2015-07-22 16:49:13.094,106.192.149.193,2.1E-5,0.011594,2.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011640001,2015-07-22 16:48:49.926,0,1
+2015-07-22 16:49:18.376,106.192.149.193,2.2E-5,0.025414,1.5E-5,https://paytm.com:443/,0.025450999,2015-07-22 16:49:13.094,0,1
+2015-07-22 10:41:28.45,106.192.160.127,2.2E-5,0.008071,1.4E-5,https://paytm.com:443/papi/v1/promosearch/product/14508786/offers?parent_id=9605579,0.008106999,,1,1
+2015-07-22 10:41:28.557,106.192.160.127,2.5E-5,0.010166,2.1E-5,https://paytm.com:443/shop/cart,0.010212,2015-07-22 10:41:28.45,0,1
+2015-07-22 10:51:36.223,106.192.160.127,2.4E-5,0.002975,2.4E-5,https://paytm.com:443/shop/g/electronics/camera-accessories/camera-accessories-store/carousel/dslrs-minimum-rs-6000-off,0.003023,2015-07-22 10:41:28.557,0,1
+2015-07-22 16:49:50.333,106.202.132.249,2.2E-5,0.003707,1.5E-5,https://paytm.com:443/shop?utm_source=affiliate&utm_medium=promocodeclub&utm_campaign=promocodeclub-generic&utm_term=pccptm,0.003744,,1,1
+2015-07-22 16:59:00.867,106.202.132.249,2.2E-5,0.008038,2.2E-5,https://paytm.com:443/shop/cart,0.008082,2015-07-22 16:49:50.333,0,1
+2015-07-22 07:11:31.659,106.206.147.54,2.4E-5,0.008406,2.3E-5,https://paytm.com:443/shop/cart,0.008453,,1,1
+2015-07-22 07:14:55.042,106.206.147.54,2.3E-5,0.005772,2.1E-5,https://paytm.com:443/?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=affiliate-id,0.005816,2015-07-22 07:11:31.659,0,1
+2015-07-22 16:22:25.913,106.208.241.208,3.1E-5,0.004093,2.2E-5,https://paytm.com:443/blog/wp-includes/js/jquery/jquery.js?ver=1.11.2,0.0041460004,,1,1
+2015-07-22 16:22:26.646,106.208.241.208,2.3E-5,0.001808,2.1E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Times-of-india_13th-July.jpg,0.001852,2015-07-22 16:22:25.913,0,1
+2015-07-22 16:23:04.825,106.208.241.208,2.5E-5,0.183409,2.5E-5,https://paytm.com:443/blog/wp-admin/admin-ajax.php,0.18345901,2015-07-22 16:22:26.646,0,1
+2015-07-22 16:23:19.675,106.208.241.208,2.3E-5,0.004182,1.4E-5,https://paytm.com:443/blog/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.5.3,0.004219,2015-07-22 16:23:04.825,0,1
+2015-07-22 16:23:39.616,106.208.241.208,2.1E-5,0.001709,2.0E-5,https://paytm.com:443/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.svg,0.00175,2015-07-22 16:23:19.675,0,1
+2015-07-22 16:24:11.039,106.208.241.208,2.0E-5,0.002424,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.ico,0.002464,2015-07-22 16:23:39.616,0,1
+2015-07-22 16:24:31.498,106.208.241.208,2.3E-5,0.003403,2.2E-5,https://paytm.com:443/blog/,0.003448,2015-07-22 16:24:11.039,0,1
+2015-07-22 16:24:46.221,106.208.241.208,2.3E-5,0.004303,2.0E-5,https://paytm.com:443/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3,0.004346,2015-07-22 16:24:31.498,0,1
+2015-07-22 16:24:47.134,106.208.241.208,2.6E-5,0.002625,2.3E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Security.jpg,0.0026739999,2015-07-22 16:24:46.221,0,1
+2015-07-22 16:25:02.523,106.208.241.208,2.3E-5,0.002524,1.9E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/Et-tech-article_post.jpg,0.0025659997,2015-07-22 16:24:47.134,0,1
+2015-07-22 16:25:52.59,106.208.241.208,2.1E-5,0.002523,2.2E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.png,0.0025659997,2015-07-22 16:25:02.523,0,1
+2015-07-22 16:26:14.401,106.208.241.208,2.4E-5,0.002554,2.1E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-17-at-9.30.41-am.png,0.0025989998,2015-07-22 16:25:52.59,0,1
+2015-07-22 16:27:01.0,106.208.241.208,2.2E-5,0.182504,2.4E-5,https://paytm.com:443/blog/wp-admin/admin-ajax.php,0.18255,2015-07-22 16:26:14.401,0,1
+2015-07-22 16:27:42.105,106.208.241.208,2.4E-5,0.002557,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/ET1.jpg,0.0026009998,2015-07-22 16:27:01.0,0,1
+2015-07-22 16:28:06.995,106.208.241.208,2.1E-5,0.00164,2.0E-5,https://paytm.com:443/blog/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif,0.0016810001,2015-07-22 16:27:42.105,0,1
+2015-07-22 16:29:26.792,106.208.241.208,2.4E-5,0.002566,2.1E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-17-at-9.59.24-am.png,0.0026109999,2015-07-22 16:28:06.995,0,1
+2015-07-22 16:29:48.809,106.208.241.208,2.4E-5,0.001666,2.1E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.png,0.001711,2015-07-22 16:29:26.792,0,1
+2015-07-22 16:30:07.875,106.208.241.208,2.0E-5,0.001738,1.5E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Bus_Promotion.jpg,0.001773,2015-07-22 16:29:48.809,0,1
+2015-07-22 16:30:12.144,106.208.241.208,2.1E-5,0.010705,2.3E-5,https://paytm.com:443/blog/tag/cash-back/,0.010749,2015-07-22 16:30:07.875,0,1
+2015-07-22 16:30:14.86,106.208.241.208,2.1E-5,0.002641,2.4E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Come-work-with-us_1_final.jpg,0.002686,2015-07-22 16:30:12.144,0,1
+2015-07-22 16:30:16.989,106.208.241.208,2.1E-5,0.002582,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/logo3.jpg,0.002623,2015-07-22 16:30:14.86,0,1
+2015-07-22 16:30:59.289,106.208.241.208,2.0E-5,0.002372,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.png,0.0024119997,2015-07-22 16:30:16.989,0,1
+2015-07-22 16:32:02.612,106.208.241.208,2.3E-5,0.001741,2.2E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/Ndtvprofit_article_19th-june.jpg,0.001786,2015-07-22 16:30:59.289,0,1
+2015-07-22 16:33:40.206,106.208.241.208,2.5E-5,0.189037,2.3E-5,https://paytm.com:443/blog/wp-admin/admin-ajax.php,0.189085,2015-07-22 16:32:02.612,0,1
+2015-07-22 16:34:49.978,106.208.241.208,2.2E-5,0.00176,2.1E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/Business-line-article.jpg,0.0018030001,2015-07-22 16:33:40.206,0,1
+2015-07-22 16:35:49.257,106.208.241.208,2.4E-5,0.010302,2.2E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.png,0.010348,2015-07-22 16:34:49.978,0,1
+2015-07-22 16:35:58.007,106.208.241.208,2.3E-5,0.001812,2.7E-5,https://paytm.com:443/blog/wp-content/uploads/2015/07/Paytm_Sale.jpg,0.001862,2015-07-22 16:35:49.257,0,1
+2015-07-22 16:35:59.107,106.208.241.208,3.4E-5,0.002697,2.1E-5,https://paytm.com:443/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1,0.002752,2015-07-22 16:35:58.007,0,1
+2015-07-22 16:36:01.454,106.208.241.208,2.1E-5,0.002673,1.7E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/Screen-Shot-2015-07-03-at-11.52.05-am.png,0.002711,2015-07-22 16:35:59.107,0,1
+2015-07-22 16:36:20.706,106.208.241.208,2.4E-5,0.005115,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2015/06/Focas-Newspage10.jpg,0.0051590004,2015-07-22 16:36:01.454,0,1
+2015-07-22 16:36:52.107,106.208.241.208,3.4E-5,0.004058,2.9E-5,https://paytm.com:443/blog/wp-content/themes/svbtle/style.css,0.004121,2015-07-22 16:36:20.706,0,1
+2015-07-22 16:37:03.298,106.208.241.208,2.3E-5,0.003216,2.1E-5,https://paytm.com:443/blog/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1,0.00326,2015-07-22 16:36:52.107,0,1
+2015-07-22 16:38:22.94,106.208.241.208,2.3E-5,0.004488,2.2E-5,https://paytm.com:443/blog/tag/cash-back/,0.0045330003,2015-07-22 16:37:03.298,0,1
+2015-07-22 16:38:30.017,106.208.241.208,1.9E-5,0.00248,2.0E-5,https://paytm.com:443/blog/wp-content/uploads/2014/11/favicon.png,0.0025189999,2015-07-22 16:38:22.94,0,1
+2015-07-22 16:22:23.732,106.208.41.57,3.6E-5,0.0059,2.3E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=grabon&utm_campaign=grabon,0.005959,,1,1
+2015-07-22 16:24:36.17,106.208.41.57,2.3E-5,0.002997,1.5E-5,https://paytm.com:443/shop/logout,0.003035,2015-07-22 16:22:23.732,0,1
+2015-07-22 16:25:01.402,106.208.41.57,2.3E-5,0.002666,3.0E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-html5,0.002719,2015-07-22 16:24:36.17,0,1
+2015-07-22 16:25:27.84,106.208.41.57,2.0E-5,0.029887,2.1E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=grabon&utm_campaign=grabon,0.029927999,2015-07-22 16:25:01.402,0,1
+2015-07-22 16:28:30.212,106.208.41.57,2.1E-5,0.005628,2.1E-5,https://paytm.com:443/?utm_source=affiliates&utm_medium=grabon&utm_campaign=grabon,0.00567,2015-07-22 16:25:27.84,0,1
+2015-07-22 16:30:17.725,106.208.41.57,2.5E-5,0.020593,2.2E-5,https://paytm.com:443/shop/cart,0.02064,2015-07-22 16:28:30.212,0,1
+2015-07-22 16:30:34.074,106.208.41.57,2.0E-5,0.30327,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.303312,2015-07-22 16:30:17.725,0,1
+2015-07-22 16:30:35.775,106.208.41.57,2.2E-5,0.017164,1.6E-5,https://paytm.com:443/shop/v1/frequentorders,0.017202,2015-07-22 16:30:34.074,0,1
+2015-07-22 16:31:58.722,106.208.41.57,2.4E-5,0.233106,1.6E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.23314601,2015-07-22 16:30:35.775,0,1
+2015-07-22 16:32:33.947,106.208.41.57,2.4E-5,0.029024,2.3E-5,https://paytm.com:443/shop/cart,0.029071,2015-07-22 16:31:58.722,0,1
+2015-07-22 16:33:48.629,106.208.41.57,2.4E-5,0.032154,2.4E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.032201998,2015-07-22 16:32:33.947,0,1
+2015-07-22 16:37:15.389,106.208.41.57,2.3E-5,0.012082,1.6E-5,https://paytm.com:443/shop/cart,0.012121,2015-07-22 16:33:48.629,0,1
+2015-07-22 16:37:20.319,106.208.41.57,3.2E-5,2.57E-4,2.3E-5,https://paytm.com:443/favicon.ico,3.1200002E-4,2015-07-22 16:37:15.389,0,1
+2015-07-22 16:37:26.419,106.208.41.57,2.2E-5,0.335261,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.33530498,2015-07-22 16:37:20.319,0,1
+2015-07-22 16:38:35.587,106.208.41.57,2.3E-5,0.005156,2.1E-5,https://paytm.com:443/shop,0.0052,2015-07-22 16:37:26.419,0,1
+2015-07-22 16:40:17.52,106.208.41.57,2.2E-5,0.026334,1.5E-5,https://paytm.com:443/shop/authresponse?code=e9eba056-c267-474b-9b44-70f20443e779&state=null,0.026371,2015-07-22 16:38:35.587,0,1
+2015-07-22 16:40:58.008,106.208.41.57,2.3E-5,0.023744,2.1E-5,https://paytm.com:443/shop/v1/frequentorders,0.023788,2015-07-22 16:40:17.52,0,1
+2015-07-22 10:40:15.533,106.208.43.244,2.2E-5,0.006201,2.0E-5,https://paytm.com:443/,0.0062430003,,1,1
+2015-07-22 10:43:18.938,106.208.43.244,2.0E-5,0.013579,1.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.013614,2015-07-22 10:40:15.533,0,1
+2015-07-22 10:47:36.224,106.208.43.244,2.3E-5,0.017368,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=39209&channel=web&version=2,0.017413,2015-07-22 10:43:18.938,0,1
+2015-07-22 10:47:42.649,106.208.43.244,2.1E-5,0.02487,2.3E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.024914,2015-07-22 10:47:36.224,0,1
+2015-07-22 10:47:57.945,106.208.43.244,2.1E-5,0.02526,2.3E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.025303999,2015-07-22 10:47:42.649,0,1
+2015-07-22 10:50:17.004,106.208.43.244,2.2E-5,0.654816,3.6E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1,0.65487397,2015-07-22 10:47:57.945,0,1
+2015-07-22 10:53:16.909,106.208.43.244,2.3E-5,0.003659,2.1E-5,https://paytm.com:443/papi/v1/promosearch/product/8352462/offers?parent_id=7219456&price=14800&channel=web&version=2,0.0037029998,2015-07-22 10:50:17.004,0,1
+2015-07-22 11:00:32.457,106.208.43.244,2.3E-5,0.005744,2.4E-5,https://paytm.com:443/papi/rr/products/8352462/statistics?channel=web&version=2,0.005791,2015-07-22 10:53:16.909,0,1
+2015-07-22 10:31:27.642,106.215.143.173,2.3E-5,0.004124,2.5E-5,https://paytm.com:443/shop/h/electronics?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM-generic&utm_term=24890,0.004172,,1,1
+2015-07-22 10:36:23.625,106.215.143.173,2.1E-5,0.001085,2.0E-5,https://paytm.com:443/favicon.ico,0.0011260001,2015-07-22 10:31:27.642,0,1
+2015-07-22 10:39:09.504,106.215.143.173,2.1E-5,0.009889,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.009931001,2015-07-22 10:36:23.625,0,1
+2015-07-22 06:58:45.426,106.216.155.168,2.3E-5,0.024456,2.1E-5,https://paytm.com:443/api/user/favourite?channel=web&version=2,0.0245,,1,1
+2015-07-22 07:00:41.517,106.216.155.168,2.6E-5,0.012717,2.0E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.012763,2015-07-22 06:58:45.426,0,1
+2015-07-22 07:01:42.57,106.216.155.168,2.5E-5,0.013404,2.4E-5,https://paytm.com:443/shop/summary/1115754015,0.013453,2015-07-22 07:00:41.517,0,1
+2015-07-22 07:05:13.623,106.216.155.168,2.1E-5,0.035651,2.2E-5,https://paytm.com:443/api/user/favourite,0.035694,2015-07-22 07:01:42.57,0,1
+2015-07-22 07:07:30.965,106.216.155.168,2.4E-5,0.016984,2.2E-5,https://paytm.com:443/api/user/favourite?channel=web&version=2,0.01703,2015-07-22 07:05:13.623,0,1
+2015-07-22 07:07:51.426,106.216.155.168,2.2E-5,0.021533,2.2E-5,https://paytm.com:443/shop/orderdetail/1115754015?channel=web&version=2,0.021576999,2015-07-22 07:07:30.965,0,1
+2015-07-22 07:09:49.432,106.216.155.168,2.1E-5,0.00109,1.6E-5,https://paytm.com:443/images/goldenStar.png,0.0011270001,2015-07-22 07:07:51.426,0,1
+2015-07-22 07:10:51.312,106.216.155.168,2.3E-5,2.89E-4,2.5E-5,https://paytm.com:443/images/greyStar.png,3.3699998E-4,2015-07-22 07:09:49.432,0,1
+2015-07-22 16:45:13.166,106.220.116.247,2.1E-5,0.004239,2.0E-5,https://paytm.com:443/shop/g/electronics/mobile-accessories/mobiles-accessories-store/price-never-before?gclid=CMDM48CX78YCFVQGvAoddk8BhQ,0.00428,,1,1
+2015-07-22 16:52:41.791,106.220.160.239,2.3E-5,0.00245,1.4E-5,https://paytm.com:443/shop/log,0.002487,,1,1
+2015-07-22 21:08:56.925,106.220.163.45,2.4E-5,0.032434,2.1E-5,https://paytm.com:443/shop/action,0.032479,,1,1
+2015-07-22 21:13:45.22,106.220.163.45,2.2E-5,0.026541,2.3E-5,https://paytm.com:443/shop/action,0.026586,2015-07-22 21:08:56.925,0,1
+2015-07-22 21:18:32.159,106.220.163.45,2.4E-5,0.037534,2.2E-5,https://paytm.com:443/shop/orderdetail/1118170406?channel=web&version=2,0.03758,2015-07-22 21:13:45.22,0,1
+2015-07-22 16:16:43.993,106.221.142.245,2.6E-5,0.00483,2.0E-5,https://paytm.com:443/papi/v1/promosearch/product/10810711/offers?parent_id=null,0.0048760003,,1,1
+2015-07-22 16:24:46.349,106.221.142.245,2.5E-5,0.01338,2.2E-5,https://paytm.com:443/shop/cart,0.0134270005,2015-07-22 16:16:43.993,0,1
+2015-07-22 18:17:31.541,106.221.156.231,2.2E-5,0.003777,2.1E-5,https://paytm.com:443/shop/h/electronics?utm_term=1,0.0038199998,,1,1
+2015-07-22 17:45:49.701,106.223.250.58,2.1E-5,0.004419,2.1E-5,https://paytm.com:443/,0.0044609997,,1,1
+2015-07-22 17:47:21.226,106.223.250.58,2.0E-5,0.004758,2.1E-5,https://paytm.com:443/,0.004799,2015-07-22 17:45:49.701,0,1
+2015-07-22 17:53:14.721,106.223.250.58,2.5E-5,0.00847,2.1E-5,https://paytm.com:443/shop/cart,0.008516001,2015-07-22 17:47:21.226,0,1
+2015-07-22 05:16:26.729,106.51.132.238,2.0E-5,0.005444,2.2E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=70564&channel=web&version=2,0.0054860003,,1,1
+2015-07-22 05:17:54.155,106.51.132.238,2.1E-5,0.004416,2.1E-5,https://paytm.com:443/shop/p/taparia-6pcs-precision-screwdriver-set-psf6-INDTAPARIA-6PCSA-K-70564729A507D,0.004458,2015-07-22 05:16:26.729,0,1
+2015-07-22 05:18:13.68,106.51.132.238,2.5E-5,0.009557,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.0096040005,2015-07-22 05:17:54.155,0,1
+2015-07-22 05:18:37.363,106.51.132.238,2.4E-5,0.006423,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=71780&channel=web&version=2,0.006468,2015-07-22 05:18:13.68,0,1
+2015-07-22 05:20:32.334,106.51.132.238,2.3E-5,0.0032,1.5E-5,https://paytm.com:443/papi/v1/promosearch/product/16918869/offers?parent_id=0&price=1262&channel=web&version=2,0.003238,2015-07-22 05:18:37.363,0,1
+2015-07-22 05:23:41.757,106.51.132.238,2.4E-5,0.004657,2.0E-5,https://paytm.com:443/shop/p/stanley-65980-vde-6-piece-screwdriver-set-with-bonus-tester-INDSTANLEY-6598INFI3833066AF5DE6,0.004701,2015-07-22 05:20:32.334,0,1
+2015-07-22 05:25:01.68,106.51.132.238,2.3E-5,0.011688,1.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.011725999,2015-07-22 05:23:41.757,0,1
+2015-07-22 05:25:42.442,106.51.132.238,2.2E-5,0.006045,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=38330&channel=web&version=2,0.0060880003,2015-07-22 05:25:01.68,0,1
+2015-07-22 10:42:48.585,106.51.133.77,2.0E-5,0.005695,2.2E-5,https://paytm.com:443/shop/h/electronics?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM-generic&utm_term=24890,0.005737,,1,1
+2015-07-22 10:49:55.827,106.51.141.229,2.1E-5,0.003024,2.1E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.0030659998,,1,1
+2015-07-22 10:51:55.773,106.51.141.229,2.3E-5,0.005124,3.0E-5,https://paytm.com:443/shop,0.005177,2015-07-22 10:49:55.827,0,1
+2015-07-22 10:54:03.952,106.51.141.229,2.3E-5,0.008594,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.008638,2015-07-22 10:51:55.773,0,1
+2015-07-22 10:57:26.708,106.51.141.229,2.1E-5,0.032012,2.1E-5,https://paytm.com:443/api/oauth2/user/clients?channel=web&version=2,0.032054,2015-07-22 10:54:03.952,0,1
+2015-07-22 10:57:28.106,106.51.141.229,2.1E-5,0.068852,1.9E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.068892,2015-07-22 10:57:26.708,0,1
+2015-07-22 10:57:59.469,106.51.141.229,2.4E-5,0.002664,2.0E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.002708,2015-07-22 10:57:28.106,0,1
+2015-07-22 10:59:28.161,106.51.141.229,2.5E-5,0.035927,2.2E-5,https://paytm.com:443/shop/authresponse?code=b7a20af2-49a5-425b-91c4-cf7331d0e657&state=null,0.035974003,2015-07-22 10:57:59.469,0,1
+2015-07-22 11:00:08.824,106.51.141.229,2.2E-5,0.005175,2.1E-5,https://paytm.com:443/shop,0.005218,2015-07-22 10:59:28.161,0,1
+2015-07-22 11:01:12.617,106.51.141.229,2.2E-5,0.099139,1.3E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.099174,2015-07-22 11:00:08.824,0,1
+2015-07-22 11:02:07.82,106.51.141.229,2.2E-5,0.016346,1.5E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.016383,2015-07-22 11:01:12.617,0,1
+2015-07-22 11:02:21.076,106.51.141.229,2.2E-5,0.016531,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.016574,2015-07-22 11:02:07.82,0,1
+2015-07-22 11:02:47.617,106.51.141.229,2.3E-5,0.002697,1.5E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.002735,2015-07-22 11:02:21.076,0,1
+2015-07-22 11:03:16.409,106.51.141.229,2.2E-5,0.023521,2.1E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.023564,2015-07-22 11:02:47.617,0,1
+2015-07-22 11:03:16.517,106.51.141.229,2.1E-5,0.127331,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.127372,2015-07-22 11:03:16.409,0,1
+2015-07-22 11:03:39.327,106.51.141.229,2.1E-5,0.026184,2.1E-5,https://paytm.com:443/api/oauth2/user/clients?channel=web&version=2,0.026225999,2015-07-22 11:03:16.517,0,1
+2015-07-22 11:03:39.448,106.51.141.229,2.1E-5,0.071077,1.9E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.071117,2015-07-22 11:03:39.327,0,1
+2015-07-22 11:03:40.963,106.51.141.229,2.1E-5,0.120458,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.120499,2015-07-22 11:03:39.448,0,1
+2015-07-22 11:04:22.161,106.51.141.229,2.0E-5,0.117499,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.117538996,2015-07-22 11:03:40.963,0,1
+2015-07-22 11:05:01.424,106.51.141.229,2.6E-5,0.023542,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.02359,2015-07-22 11:04:22.161,0,1
+2015-07-22 11:06:12.715,106.51.141.229,2.1E-5,0.068098,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.068139,2015-07-22 11:05:01.424,0,1
+2015-07-22 11:06:34.328,106.51.141.229,2.2E-5,0.25198,2.5E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.252027,2015-07-22 11:06:12.715,0,1
+2015-07-22 11:07:08.274,106.51.141.229,2.4E-5,0.104928,2.1E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.104973,2015-07-22 11:06:34.328,0,1
+2015-07-22 11:09:10.281,106.51.141.229,2.4E-5,0.037914,2.1E-5,https://paytm.com:443/api/oauth2/user/clients?channel=web&version=2,0.037959,2015-07-22 11:07:08.274,0,1
+2015-07-22 11:09:27.858,106.51.141.229,2.3E-5,0.06769,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.067733,2015-07-22 11:09:10.281,0,1
+2015-07-22 11:09:43.619,106.51.141.229,2.3E-5,0.113282,1.8E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.113323,2015-07-22 11:09:27.858,0,1
+2015-07-22 11:09:53.887,106.51.141.229,2.5E-5,0.130367,1.5E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.130407,2015-07-22 11:09:43.619,0,1
+2015-07-22 11:11:33.133,106.51.141.229,2.2E-5,0.021007,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.021049999,2015-07-22 11:09:53.887,0,1
+2015-07-22 11:12:02.64,106.51.141.229,2.3E-5,0.01834,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.018385,2015-07-22 11:11:33.133,0,1
+2015-07-22 11:12:29.03,106.51.141.229,2.4E-5,0.110827,2.3E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.110874,2015-07-22 11:12:02.64,0,1
+2015-07-22 11:13:48.5,106.51.141.229,2.6E-5,0.120918,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.120965004,2015-07-22 11:12:29.03,0,1
+2015-07-22 11:14:23.311,106.51.141.229,2.4E-5,0.031323,2.0E-5,https://paytm.com:443/shop/authresponse?code=c6a5706b-fa80-45e0-9491-ba09bbfd162a&state=null,0.031367,2015-07-22 11:13:48.5,0,1
+2015-07-22 11:15:08.284,106.51.141.229,2.3E-5,0.110152,2.0E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.110194996,2015-07-22 11:14:23.311,0,1
+2015-07-22 11:15:55.054,106.51.141.229,2.2E-5,0.023057,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.023101,2015-07-22 11:15:08.284,0,1
+2015-07-22 11:17:15.89,106.51.141.229,2.4E-5,0.242305,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.24235,2015-07-22 11:15:55.054,0,1
+2015-07-22 11:17:17.989,106.51.141.229,2.8E-5,0.024477,2.3E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.024527999,2015-07-22 11:17:15.89,0,1
+2015-07-22 11:17:21.143,106.51.141.229,2.2E-5,0.170125,2.2E-5,https://paytm.com:443/shop/wallet/balance?channel=web&version=2,0.17016898,2015-07-22 11:17:17.989,0,1
+2015-07-22 11:17:45.846,106.51.141.229,2.6E-5,0.023447,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.023494,2015-07-22 11:17:21.143,0,1
+2015-07-22 16:19:14.096,106.51.142.31,2.3E-5,0.00101,2.0E-5,https://www.paytm.com:443/,0.001053,,1,1
+2015-07-22 16:21:14.536,106.51.142.31,2.3E-5,0.033308,2.4E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.033354998,2015-07-22 16:19:14.096,0,1
+2015-07-22 16:23:46.404,106.51.142.31,2.3E-5,0.004923,2.0E-5,https://paytm.com:443/shop,0.004966,2015-07-22 16:21:14.536,0,1
+2015-07-22 16:25:40.508,106.51.142.31,2.1E-5,0.035411,1.7E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.035449,2015-07-22 16:23:46.404,0,1
+2015-07-22 16:26:00.55,106.51.142.31,2.1E-5,0.017844,1.4E-5,https://paytm.com:443/api/user/favourite?channel=web&version=2,0.017879,2015-07-22 16:25:40.508,0,1
+2015-07-22 16:26:38.886,106.51.142.31,2.0E-5,0.010481,1.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.010516,2015-07-22 16:26:00.55,0,1
+2015-07-22 16:27:59.058,106.51.142.31,2.1E-5,0.021615,2.1E-5,https://paytm.com:443/shop/orderdetail/1117859928?channel=web&version=2,0.021657,2015-07-22 16:26:38.886,0,1
+2015-07-22 16:28:29.641,106.51.142.31,2.5E-5,0.024776,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.024822,2015-07-22 16:27:59.058,0,1
+2015-07-22 16:28:59.421,106.51.142.31,2.1E-5,0.029117,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.029159999,2015-07-22 16:28:29.641,0,1
+2015-07-22 16:30:33.244,106.51.142.31,2.2E-5,0.001064,1.5E-5,https://paytm.com:443/images/greyStar.png,0.001101,2015-07-22 16:28:59.421,0,1
+2015-07-22 16:31:01.74,106.51.142.31,2.1E-5,0.003214,2.1E-5,https://paytm.com:443/shop/logout?channel=web&version=2,0.0032559999,2015-07-22 16:30:33.244,0,1
+2015-07-22 16:31:21.738,106.51.142.31,2.4E-5,0.006228,4.1E-5,https://paytm.com:443/shop/summary/1117859928,0.006293,2015-07-22 16:31:01.74,0,1
+2015-07-22 16:32:12.397,106.51.142.31,2.4E-5,0.072601,1.6E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1,0.07264099,2015-07-22 16:31:21.738,0,1
+2015-07-22 16:33:35.114,106.51.142.31,2.5E-5,0.033394,2.2E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.033441003,2015-07-22 16:32:12.397,0,1
+2015-07-22 16:33:35.636,106.51.142.31,2.1E-5,0.013137,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.01318,2015-07-22 16:33:35.114,0,1
+2015-07-22 16:36:34.187,106.51.142.31,2.4E-5,0.025431,2.5E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.02548,2015-07-22 16:33:35.636,0,1
+2015-07-22 16:36:44.398,106.51.142.31,2.2E-5,0.033508,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.033551,2015-07-22 16:36:34.187,0,1
+2015-07-22 18:09:31.827,106.51.143.164,2.4E-5,0.003904,2.2E-5,https://paytm.com:443/shop/h/electronics?utm_term=1,0.0039500003,,1,1
+2015-07-22 18:15:30.16,106.51.143.164,2.4E-5,0.012421,2.2E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.012467,2015-07-22 18:09:31.827,0,1
+2015-07-22 18:19:46.975,106.51.143.164,2.3E-5,0.001091,2.1E-5,https://paytm.com:443/favicon.ico,0.0011350001,2015-07-22 18:15:30.16,0,1
+2015-07-22 11:00:37.397,106.66.170.144,3.3E-5,2.28E-4,2.0E-5,http://www.paytm.com:80/blog/,2.8100002E-4,,1,1
+2015-07-22 16:18:11.426,106.66.85.192,2.5E-5,0.011539,1.5E-5,https://paytm.com:443/shop/cart,0.011579,,1,1
+2015-07-22 16:24:44.491,106.66.85.192,2.1E-5,0.002628,2.1E-5,https://paytm.com:443/,0.0026699998,2015-07-22 16:18:11.426,0,1
+2015-07-22 16:25:46.827,106.66.85.192,2.3E-5,0.001073,1.6E-5,https://paytm.com:443/favicon.ico,0.001112,2015-07-22 16:24:44.491,0,1
+2015-07-22 10:46:06.059,106.67.137.184,2.3E-5,0.004243,2.3E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/images-responsive-thumbnail-slider-plus-lightbox-jc.js?ver=4.2.2,0.004289,,1,1
+2015-07-22 10:46:23.971,106.67.137.184,2.3E-5,0.00263,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4,0.0026739999,2015-07-22 10:46:06.059,0,1
+2015-07-22 10:46:44.502,106.67.137.184,2.1E-5,0.002711,1.9E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/eoss_620x443.jpg,0.0027509998,2015-07-22 10:46:23.971,0,1
+2015-07-22 10:47:05.11,106.67.137.184,2.5E-5,0.001587,2.1E-5,https://paytm.com:443/offer/wp-includes/js/comment-reply.min.js?ver=4.2.2,0.001633,2015-07-22 10:46:44.502,0,1
+2015-07-22 10:47:49.172,106.67.137.184,2.4E-5,0.001564,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/facebook-share.png,0.001609,2015-07-22 10:47:05.11,0,1
+2015-07-22 10:47:49.22,106.67.137.184,1.8E-5,0.002316,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/images/vl-box/controls.png,0.0023549998,2015-07-22 10:47:49.172,0,1
+2015-07-22 10:47:49.261,106.67.137.184,1.6E-5,0.002549,2.2E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/ggg.jpg,0.002587,2015-07-22 10:47:49.22,0,1
+2015-07-22 10:49:13.199,106.67.137.184,2.5E-5,0.001818,1.5E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4,0.001858,2015-07-22 10:47:49.261,0,1
+2015-07-22 10:49:30.138,106.67.137.184,2.5E-5,0.001652,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/styles.css?ver=4.2.2,0.001698,2015-07-22 10:49:13.199,0,1
+2015-07-22 10:49:30.189,106.67.137.184,1.8E-5,0.002426,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.2.2,0.002464,2015-07-22 10:49:30.138,0,1
+2015-07-22 10:49:30.23,106.67.137.184,1.6E-5,0.002451,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jcarousel.responsive.js?ver=4.2.2,0.0024869998,2015-07-22 10:49:30.189,0,1
+2015-07-22 10:49:39.047,106.67.137.184,3.4E-5,0.002512,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4,0.002568,2015-07-22 10:49:30.23,0,1
+2015-07-22 10:49:57.024,106.67.137.184,2.6E-5,0.002696,2.4E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/js/l-box-js.js?ver=4.2.2,0.002746,2015-07-22 10:49:39.047,0,1
+2015-07-22 10:50:06.786,106.67.137.184,2.2E-5,0.002745,1.8E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/jquery.lbox.css?ver=4.2.2,0.0027849998,2015-07-22 10:49:57.024,0,1
+2015-07-22 10:50:06.831,106.67.137.184,1.7E-5,0.002712,9.83E-4,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/images-responsive-thumbnail-slider-plus-lighbox-style.css?ver=4.2.2,0.0037119999,2015-07-22 10:50:06.786,0,1
+2015-07-22 10:50:06.87,106.67.137.184,1.8E-5,0.003107,6.16E-4,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js?ver=4.2.2,0.0037409998,2015-07-22 10:50:06.831,0,1
+2015-07-22 10:50:22.497,106.67.137.184,2.2E-5,0.001771,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/offer-page_20jul.jpg,0.0018130001,2015-07-22 10:50:06.87,0,1
+2015-07-22 10:50:22.543,106.67.137.184,1.8E-5,0.002579,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/offer-page_21july.jpg,0.002618,2015-07-22 10:50:22.497,0,1
+2015-07-22 10:50:22.576,106.67.137.184,1.7E-5,0.001618,2.2E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/cc.png,0.001657,2015-07-22 10:50:22.543,0,1
+2015-07-22 10:50:27.909,106.67.137.184,2.3E-5,0.005047,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/01/bootstrap.min_.css,0.005091,2015-07-22 10:50:22.576,0,1
+2015-07-22 10:50:40.575,106.67.137.184,2.5E-5,0.0029,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4,0.0029449998,2015-07-22 10:50:27.909,0,1
+2015-07-22 10:50:40.626,106.67.137.184,1.9E-5,0.003854,2.1E-5,https://paytm.com:443/offer/wp-includes/js/masonry.min.js?ver=3.1.2,0.0038939998,2015-07-22 10:50:40.575,0,1
+2015-07-22 10:50:49.211,106.67.137.184,2.3E-5,0.002968,2.2E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4,0.003013,2015-07-22 10:50:40.626,0,1
+2015-07-22 10:51:33.304,106.67.137.184,2.5E-5,0.002482,1.8E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.2.2,0.002525,2015-07-22 10:50:49.211,0,1
+2015-07-22 10:51:33.354,106.67.137.184,1.7E-5,0.002376,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.2.2,0.0024139998,2015-07-22 10:51:33.304,0,1
+2015-07-22 10:51:33.393,106.67.137.184,1.7E-5,0.002677,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.2.2,0.0027139997,2015-07-22 10:51:33.354,0,1
+2015-07-22 10:51:41.144,106.67.137.184,2.1E-5,0.004899,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/jquery.sliderPro.min_.js,0.00494,2015-07-22 10:51:33.393,0,1
+2015-07-22 10:51:41.188,106.67.137.184,1.7E-5,0.002593,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/jcarouselresponsive.css?ver=4.2.2,0.0026299998,2015-07-22 10:51:41.144,0,1
+2015-07-22 10:51:42.246,106.67.137.184,2.4E-5,0.002383,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.3,0.0024289999,2015-07-22 10:51:41.188,0,1
+2015-07-22 10:51:42.294,106.67.137.184,2.2E-5,0.002559,1.8E-5,https://paytm.com:443/offer/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.2.2,0.0025989998,2015-07-22 10:51:42.246,0,1
+2015-07-22 10:51:53.014,106.67.137.184,2.3E-5,0.002632,1.7E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/autom.jpg,0.0026719999,2015-07-22 10:51:42.294,0,1
+2015-07-22 10:51:53.061,106.67.137.184,1.9E-5,0.001754,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/470X220_books.jpg,0.001793,2015-07-22 10:51:53.014,0,1
+2015-07-22 10:51:53.098,106.67.137.184,1.8E-5,0.001592,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/bb.png,0.0016330001,2015-07-22 10:51:53.061,0,1
+2015-07-22 10:52:03.434,106.67.137.184,2.5E-5,0.001611,2.1E-5,https://paytm.com:443/offer/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2,0.001657,2015-07-22 10:51:53.098,0,1
+2015-07-22 10:52:20.649,106.67.137.184,2.4E-5,0.00307,2.2E-5,https://paytm.com:443/offer/,0.003116,2015-07-22 10:52:03.434,0,1
+2015-07-22 10:52:39.294,106.67.137.184,2.6E-5,0.002756,2.1E-5,https://paytm.com:443/offer/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2,0.002803,2015-07-22 10:52:20.649,0,1
+2015-07-22 10:52:39.336,106.67.137.184,1.7E-5,0.001721,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/qas.jpg,0.0017609999,2015-07-22 10:52:39.294,0,1
+2015-07-22 10:52:39.372,106.67.137.184,1.7E-5,0.002544,2.4E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/julqw.jpg,0.002585,2015-07-22 10:52:39.336,0,1
+2015-07-22 10:53:00.52,106.67.137.184,2.4E-5,0.001917,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/easy-logo-slider/css/style-admin.css?ver=4.2.2,0.001962,2015-07-22 10:52:39.372,0,1
+2015-07-22 10:53:22.629,106.67.137.184,2.2E-5,0.001672,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.2.2,0.0017160001,2015-07-22 10:53:00.52,0,1
+2015-07-22 10:54:12.896,106.67.137.184,2.5E-5,0.00189,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/css/wpt-slide.css?ver=4.2.2,0.001936,2015-07-22 10:53:22.629,0,1
+2015-07-22 10:54:12.947,106.67.137.184,1.8E-5,0.004139,2.0E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/style.css?ver=4.2.2,0.0041770004,2015-07-22 10:54:12.896,0,1
+2015-07-22 10:54:12.988,106.67.137.184,1.6E-5,0.002068,1.4E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/slider-pro.min_.css,0.002098,2015-07-22 10:54:12.947,0,1
+2015-07-22 10:55:51.108,106.67.137.184,2.5E-5,0.002472,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/css/flexslider.css?ver=4.2.2,0.0025159998,2015-07-22 10:54:12.988,0,1
+2015-07-22 10:55:51.166,106.67.137.184,2.8E-5,0.002251,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=4.2.2,0.0022979998,2015-07-22 10:55:51.108,0,1
+2015-07-22 10:55:51.218,106.67.137.184,1.7E-5,0.001767,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3,0.001805,2015-07-22 10:55:51.166,0,1
+2015-07-22 10:55:55.969,106.67.137.184,2.3E-5,0.001828,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/flexslider/flexslider.css?ver=2.2.0,0.0018709999,2015-07-22 10:55:51.218,0,1
+2015-07-22 10:56:07.793,106.67.137.184,2.4E-5,0.004432,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2014/12/examples.css,0.0044790003,2015-07-22 10:55:55.969,0,1
+2015-07-22 10:56:08.529,106.67.137.184,2.4E-5,0.002473,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/css/slider-plus-lightbox-style.css?ver=4.2.2,0.0025169998,2015-07-22 10:56:07.793,0,1
+2015-07-22 10:57:02.308,106.67.137.184,2.2E-5,0.002877,2.4E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4,0.002923,2015-07-22 10:56:08.529,0,1
+2015-07-22 10:57:08.593,106.67.137.184,2.5E-5,0.002534,2.7E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/bargain.jpg,0.002586,2015-07-22 10:57:02.308,0,1
+2015-07-22 10:57:08.644,106.67.137.184,2.1E-5,0.002582,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/kitch11.jpg,0.002623,2015-07-22 10:57:08.593,0,1
+2015-07-22 10:57:08.687,106.67.137.184,1.7E-5,0.001719,2.2E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/pesoal.jpg,0.0017580001,2015-07-22 10:57:08.644,0,1
+2015-07-22 10:57:17.068,106.67.137.184,2.2E-5,0.001834,3.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-responsive-slider-with-lightbox/css/l-box-css.css?ver=4.2.2,0.001886,2015-07-22 10:57:08.687,0,1
+2015-07-22 10:58:14.952,106.67.137.184,2.5E-5,0.001667,2.1E-5,https://paytm.com:443/offer/wp-content/uploads/2015/01/style.css,0.001713,2015-07-22 10:57:17.068,0,1
+2015-07-22 10:59:00.357,106.67.137.184,2.5E-5,0.00179,1.5E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/ledq.jpg,0.00183,2015-07-22 10:58:14.952,0,1
+2015-07-22 10:59:00.406,106.67.137.184,1.8E-5,0.002572,2.0E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/main_sports_health_14jul.jpg,0.0026099999,2015-07-22 10:59:00.357,0,1
+2015-07-22 10:59:05.941,106.67.137.184,2.3E-5,0.002628,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.26,0.0026709998,2015-07-22 10:59:00.406,0,1
+2015-07-22 10:59:05.988,106.67.137.184,1.7E-5,0.00265,1.3E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9,0.00268,2015-07-22 10:59:05.941,0,1
+2015-07-22 10:59:06.027,106.67.137.184,1.7E-5,0.002942,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/jquery.lbox.min.js?ver=4.2.2,0.0029789999,2015-07-22 10:59:05.988,0,1
+2015-07-22 10:59:19.177,106.67.137.184,2.3E-5,0.004907,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=3.8,0.004952,2015-07-22 10:59:06.027,0,1
+2015-07-22 10:59:19.224,106.67.137.184,1.7E-5,0.002187,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.2.2,0.0022249997,2015-07-22 10:59:19.177,0,1
+2015-07-22 10:59:19.263,106.67.137.184,1.7E-5,0.002839,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-image-slider-with-lightbox/js/slider-plus-lightbox-js.js?ver=4.2.2,0.0028759998,2015-07-22 10:59:19.224,0,1
+2015-07-22 10:59:25.518,106.67.137.184,2.5E-5,0.002045,1.4E-5,https://paytm.com:443/offer/wp-content/plugins/image-slider-responsive/js/jquery.flexslider-min.js?ver=4.2.2,0.002084,2015-07-22 10:59:19.263,0,1
+2015-07-22 10:59:29.478,106.67.137.184,2.5E-5,0.002504,1.9E-5,https://paytm.com:443/offer/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.3,0.0025479998,2015-07-22 10:59:25.518,0,1
+2015-07-22 11:00:01.896,106.67.137.184,2.7E-5,0.001833,1.9E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4,0.001879,2015-07-22 10:59:29.478,0,1
+2015-07-22 11:00:47.542,106.67.137.184,2.5E-5,0.002671,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.carousel.min.css?ver=2.0.0,0.002716,2015-07-22 11:00:01.896,0,1
+2015-07-22 11:00:47.593,106.67.137.184,1.8E-5,0.002457,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/wc-gallery/includes/js/owlcarousel/assets/owl.theme.default.css?ver=2.0.0,0.002496,2015-07-22 11:00:47.542,0,1
+2015-07-22 11:00:47.633,106.67.137.184,1.7E-5,0.002599,3.1E-5,https://paytm.com:443/offer/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318,0.002647,2015-07-22 11:00:47.593,0,1
+2015-07-22 11:00:48.887,106.67.137.184,2.2E-5,0.001513,2.0E-5,https://paytm.com:443/offer/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1,0.0015550001,2015-07-22 11:00:47.633,0,1
+2015-07-22 11:00:48.933,106.67.137.184,1.8E-5,0.003513,1.4E-5,https://paytm.com:443/offer/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=3.8,0.003545,2015-07-22 11:00:48.887,0,1
+2015-07-22 11:00:48.972,106.67.137.184,1.6E-5,0.002487,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/js/script.js?ver=4.2.2,0.002524,2015-07-22 11:00:48.933,0,1
+2015-07-22 11:00:58.235,106.67.137.184,2.2E-5,0.002987,1.01E-4,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20,0.00311,2015-07-22 11:00:48.972,0,1
+2015-07-22 11:00:58.281,106.67.137.184,1.7E-5,0.002826,1.5E-5,https://paytm.com:443/offer/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3,0.002858,2015-07-22 11:00:58.235,0,1
+2015-07-22 11:01:02.712,106.67.137.184,2.8E-5,0.001661,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.2.2,0.001711,2015-07-22 11:00:58.281,0,1
+2015-07-22 11:01:16.13,106.67.137.184,2.4E-5,0.002583,1.5E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/bedlinen.jpg,0.0026220002,2015-07-22 11:01:02.712,0,1
+2015-07-22 11:01:17.461,106.67.137.184,2.6E-5,0.002482,2.0E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4,0.002528,2015-07-22 11:01:16.13,0,1
+2015-07-22 11:01:17.512,106.67.137.184,1.9E-5,0.001874,1.5E-5,https://paytm.com:443/offer/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4,0.001908,2015-07-22 11:01:17.461,0,1
+2015-07-22 11:01:17.554,106.67.137.184,1.7E-5,0.002748,2.2E-5,https://paytm.com:443/offer/wp-content/plugins/wp-thumbnail-slider/js/wpt-js.js?ver=4.2.2,0.0027869998,2015-07-22 11:01:17.512,0,1
+2015-07-22 11:02:04.451,106.67.137.184,2.6E-5,0.002517,2.3E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/meruwer_1.jpg,0.002566,2015-07-22 11:01:17.554,0,1
+2015-07-22 11:02:04.508,106.67.137.184,2.4E-5,0.002575,2.2E-5,https://paytm.com:443/offer/wp-content/uploads/2015/07/470x220_19july.jpg,0.002621,2015-07-22 11:02:04.451,0,1
+2015-07-22 11:02:04.558,106.67.137.184,2.1E-5,0.001584,2.1E-5,https://paytm.com:443/offer/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/specificfeeds_follow.png,0.001626,2015-07-22 11:02:04.508,0,1
+2015-07-22 16:23:23.311,106.77.170.100,2.4E-5,0.015104,2.0E-5,https://paytm.com:443/shop/orderdetail/1117853381,0.015148001,,1,1
+2015-07-22 16:33:23.932,106.77.170.100,2.3E-5,0.005057,1.4E-5,https://paytm.com:443/shop/summary/1117853381,0.005094,2015-07-22 16:23:23.311,0,1
+2015-07-22 16:35:16.588,106.77.170.100,2.1E-5,0.012222,2.2E-5,https://paytm.com:443/shop/cart,0.0122650005,2015-07-22 16:33:23.932,0,1
+2015-07-22 10:44:18.855,106.77.217.58,2.1E-5,0.01474,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=23540&channel=web&version=2,0.014782,,1,1
+2015-07-22 10:44:58.866,106.77.217.58,2.2E-5,0.004194,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/16465286/offers?parent_id=8216336&price=13200&channel=web&version=2,0.004238,2015-07-22 10:44:18.855,0,1
+2015-07-22 10:46:12.187,106.77.217.58,2.3E-5,0.013813,1.5E-5,https://paytm.com:443/papi/rr/products/16465286/statistics?channel=web&version=2,0.013851,2015-07-22 10:44:58.866,0,1
+2015-07-22 10:48:34.95,106.77.244.199,2.3E-5,0.003786,2.1E-5,https://paytm.com:443/?utm_source=ucweb&utm_medium=Affiliate&utm_campaign=web,0.0038299998,,1,1
+2015-07-22 17:45:28.95,106.77.253.234,2.3E-5,0.041204,2.1E-5,https://paytm.com:443/shop/authresponse?code=e1b2df63-7651-498c-a92b-d745dc28e39e&state=null,0.041248,,1,1
+2015-07-22 17:53:31.037,106.77.253.234,2.5E-5,0.025153,2.1E-5,https://paytm.com:443/shop/v1/frequentorders?channel=web&version=2,0.025199,2015-07-22 17:45:28.95,0,1
+2015-07-22 17:59:18.6,106.77.253.234,2.6E-5,0.016575,1.5E-5,https://paytm.com:443/shop/cart?channel=web&version=2,0.016616,2015-07-22 17:53:31.037,0,1
+2015-07-22 16:27:04.216,106.78.113.18,2.1E-5,0.02409,2.0E-5,https://paytm.com:443/,0.024130998,,1,1
+2015-07-22 16:30:55.076,106.78.113.18,2.3E-5,0.020159,2.3E-5,https://paytm.com:443/shop/v1/frequentorders,0.020205,2015-07-22 16:27:04.216,0,1
+2015-07-22 16:34:07.454,106.78.113.18,2.3E-5,0.08341,2.1E-5,https://paytm.com:443/papi/v1/expresscart/verify,0.083454005,2015-07-22 16:30:55.076,0,1
+2015-07-22 16:39:21.204,106.78.113.18,2.1E-5,0.205435,2.0E-5,https://paytm.com:443/api/v1/expresscart/checkout?wallet=1,0.20547599,2015-07-22 16:34:07.454,0,1
+2015-07-22 16:33:21.265,106.78.115.203,2.2E-5,0.004936,2.3E-5,https://paytm.com:443/shop/nps-feedback?utm_source=order&utm_medium=email&utm_campaign=nps&orderid=1102390895&category=npsFeedback-recharge&response=10,0.004981,,1,1
+2015-07-22 16:38:19.385,106.78.115.203,2.3E-5,0.012665,2.0E-5,https://paytm.com:443/shop/cart,0.012708,2015-07-22 16:33:21.265,0,1
+2015-07-22 18:02:46.329,106.78.181.165,2.6E-5,0.074234,2.4E-5,https://paytm.com:443/shop/cart,0.074284,,1,1
+2015-07-22 18:03:43.526,106.78.181.165,2.4E-5,0.144853,2.0E-5,https://paytm.com:443/shop/cart/checkout?channel=web&version=2,0.144897,2015-07-22 18:02:46.329,0,1
+2015-07-22 18:04:30.472,106.78.181.165,2.6E-5,0.015388,2.0E-5,https://paytm.com:443/shop/user/address?channel=web&version=2,0.015434,2015-07-22 18:03:43.526,0,1
+2015-07-22 18:07:30.206,106.78.181.165,2.4E-5,0.040055,2.4E-5,https://paytm.com:443/shop/cart,0.040102996,2015-07-22 18:04:30.472,0,1
+2015-07-22 18:07:50.863,106.78.181.165,2.4E-5,0.153355,2.5E-5,https://paytm.com:443/shop/cart,0.15340401,2015-07-22 18:07:30.206,0,1
+2015-07-22 18:08:37.882,106.78.181.165,2.2E-5,0.063817,2.0E-5,https://paytm.com:443/shop/cart,0.063859,2015-07-22 18:07:50.863,0,1
+2015-07-22 18:09:50.504,106.78.181.165,2.5E-5,0.025196,2.1E-5,https://paytm.com:443/shop/orderdetail/1118080142?channel=web&version=2,0.025241999,2015-07-22 18:08:37.882,0,1
+2015-07-22 18:12:51.067,106.78.181.165,2.5E-5,0.08228,1.5E-5,https://paytm.com:443/shop/cart,0.08232,2015-07-22 18:09:50.504,0,1
+2015-07-22 18:13:04.952,106.78.181.165,2.2E-5,0.004889,2.3E-5,https://paytm.com:443/shop/summary/1118080142,0.0049340003,2015-07-22 18:12:51.067,0,1
+2015-07-22 18:14:24.268,106.78.181.165,2.5E-5,0.123853,2.3E-5,https://paytm.com:443/papi/nps/merchantverification,0.123900995,2015-07-22 18:13:04.952,0,1
+2015-07-22 18:16:11.195,106.78.181.165,2.5E-5,0.157391,2.1E-5,https://paytm.com:443/shop/cart,0.157437,2015-07-22 18:14:24.268,0,1
+2015-07-22 18:17:07.014,106.78.181.165,2.2E-5,0.057522,2.2E-5,https://paytm.com:443/shop/cart,0.057566002,2015-07-22 18:16:11.195,0,1
+2015-07-22 10:52:41.05,106.78.19.8,2.3E-5,0.002921,2.2E-5,https://paytm.com:443/shop/login?isIframe=true&theme=mp-web,0.0029659998,,1,1
+2015-07-22 11:09:59.63,106.78.211.28,2.3E-5,0.010766,2.3E-5,https://paytm.com:443/shop/cart,0.010811999,,1,1
+2015-07-22 11:17:16.875,106.78.211.28,2.4E-5,0.004676,2.1E-5,https://paytm.com:443/shop/g/electronics/computers-accessories/computer-accessories-store/carousel/laptops-up-to-18-cashback?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=1346,0.0047210003,2015-07-22 11:09:59.63,0,1
+2015-07-22 16:11:43.168,106.78.253.255,2.6E-5,0.002184,2.2E-5,https://paytm.com:443/settings,0.002232,,1,1
+2015-07-22 16:13:51.959,106.78.253.255,2.6E-5,0.004766,2.1E-5,https://paytm.com:443/settings,0.004813,2015-07-22 16:11:43.168,0,1
+2015-07-22 16:16:29.864,106.78.253.255,2.3E-5,0.02538,2.3E-5,https://paytm.com:443/code?code=d36824ec-fedf-4a49-aa6a-00c23c36777d,0.025426,2015-07-22 16:13:51.959,0,1
+2015-07-22 16:19:19.925,106.78.253.255,2.6E-5,0.003458,2.1E-5,https://paytm.com:443/styles/app.css,0.003505,2015-07-22 16:16:29.864,0,1
+2015-07-22 16:21:59.199,106.78.253.255,2.7E-5,2.36E-4,2.1E-5,https://paytm.com:443/client/wap/img/paytm-logo.gif,2.84E-4,2015-07-22 16:19:19.925,0,1
+2015-07-22 16:24:32.377,106.78.253.255,2.7E-5,0.005394,2.1E-5,https://paytm.com:443/login,0.005442,2015-07-22 16:21:59.199,0,1
+2015-07-22 16:24:59.526,106.78.253.255,2.6E-5,0.6662,2.5E-5,https://paytm.com:443/paytmcash,0.66625094,2015-07-22 16:24:32.377,0,1
+2015-07-22 16:27:02.935,106.78.253.255,2.5E-5,0.003062,2.2E-5,https://paytm.com:443/login,0.003109,2015-07-22 16:24:59.526,0,1
+2015-07-22 16:25:27.84,106.78.49.245,2.3E-5,0.007146,1.6E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=27832&channel=web&version=2,0.007185,,1,1
+2015-07-22 16:25:53.706,106.78.49.245,2.5E-5,0.006753,1.7E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=27832&channel=web&version=2,0.006795,2015-07-22 16:25:27.84,0,1
+2015-07-22 16:32:27.538,106.78.49.245,2.5E-5,0.011205,1.4E-5,https://paytm.com:443/papi/v1/promosearch/product/8872668/offers?parent_id=6310183&price=779&channel=web&version=2,0.011244,2015-07-22 16:25:53.706,0,1
+2015-07-22 16:33:47.973,106.78.49.245,2.5E-5,0.006651,1.4E-5,https://paytm.com:443/papi/rr/products/8872668/statistics?channel=web&version=2,0.00669,2015-07-22 16:32:27.538,0,1
+2015-07-22 16:34:22.327,106.78.49.245,2.3E-5,0.003911,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/9525091/offers?parent_id=9525442&price=450&channel=web&version=2,0.0039560003,2015-07-22 16:33:47.973,0,1
+2015-07-22 16:35:32.668,106.78.49.245,2.1E-5,0.016898,2.0E-5,https://paytm.com:443/papi/v1/promosearch/product/9524999/offers?parent_id=9525418&price=450&channel=web&version=2,0.016939,2015-07-22 16:34:22.327,0,1
+2015-07-22 16:35:47.638,106.78.49.245,2.5E-5,0.004669,1.7E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=35577&channel=web&version=2,0.004711,2015-07-22 16:35:32.668,0,1
+2015-07-22 16:36:52.239,106.78.49.245,2.3E-5,0.004968,1.5E-5,https://paytm.com:443/papi/rr/products/9524999/statistics?channel=web&version=2,0.005006,2015-07-22 16:35:47.638,0,1
+2015-07-22 16:37:40.5,106.78.49.245,2.4E-5,0.005032,2.4E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=27832&channel=web&version=2,0.0050800005,2015-07-22 16:36:52.239,0,1
+2015-07-22 16:38:50.202,106.78.49.245,2.3E-5,0.012302,2.4E-5,https://paytm.com:443/papi/v1/promosearch/product/9525001/offers?parent_id=9525418&price=450&channel=web&version=2,0.012349,2015-07-22 16:37:40.5,0,1
+2015-07-22 16:39:00.221,106.78.49.245,2.1E-5,0.005119,2.1E-5,https://paytm.com:443/papi/rr/products/9525091/statistics?channel=web&version=2,0.005161,2015-07-22 16:38:50.202,0,1
+2015-07-22 16:41:26.275,106.78.49.245,2.4E-5,0.005329,1.5E-5,https://paytm.com:443/papi/v1/promosearch/product/16641407/offers?parent_id=16645079&price=519&channel=web&version=2,0.005368,2015-07-22 16:39:00.221,0,1
+2015-07-22 16:51:00.982,106.78.49.245,2.5E-5,0.007765,1.9E-5,https://paytm.com:443/papi/rr/products/16641407/statistics?channel=web&version=2,0.007809,2015-07-22 16:41:26.275,0,1
+2015-07-22 16:54:01.137,106.78.49.245,2.8E-5,0.004511,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=50996&channel=web&version=2,0.0045600003,2015-07-22 16:51:00.982,0,1
+2015-07-22 16:55:50.308,106.78.49.245,2.5E-5,0.005269,2.1E-5,https://paytm.com:443/papi/nps/merchantrating?merchant_id=27832&channel=web&version=2,0.0053149997,2015-07-22 16:54:01.137,0,1
+2015-07-22 16:57:00.191,106.78.49.245,2.3E-5,0.010906,2.2E-5,https://paytm.com:443/papi/v1/promosearch/product/9525091/offers?parent_id=9525442&price=450&channel=web&version=2,0.010950999,2015-07-22 16:55:50.308,0,1
+2015-07-22 16:58:00.291,106.78.49.245,2.3E-5,0.01017,2.2E-5,https://paytm.com:443/papi/rr/products/9525091/statistics?channel=web&version=2,0.010214999,2015-07-22 16:57:00.191,0,1
+2015-07-22 18:01:18.909,106.79.0.52,2.2E-5,0.004745,2.1E-5,https://paytm.com:443/coupons,0.004788,,1,1
+2015-07-22 11:03:19.222,107.167.103.224,2.6E-5,0.210462,2.1E-5,https://paytm.com:443/checkout,0.210509,,1,1
+2015-07-22 11:03:27.509,107.167.103.224,2.8E-5,0.057677,1.7E-5,https://paytm.com:443/summary/1116644345,0.057722,2015-07-22 11:03:19.222,0,1
+2015-07-22 11:04:42.744,107.167.103.224,2.4E-5,0.005268,2.3E-5,https://paytm.com:443/settings,0.005315,2015-07-22 11:03:27.509,0,1
+2015-07-22 11:08:02.842,107.167.103.224,2.5E-5,0.096856,2.2E-5,https://paytm.com:443/,0.096903,2015-07-22 11:04:42.744,0,1
+2015-07-22 11:08:54.957,107.167.103.224,2.6E-5,0.00557,2.3E-5,https://paytm.com:443/,0.005619,2015-07-22 11:08:02.842,0,1
+2015-07-22 11:10:42.239,107.167.103.224,2.8E-5,0.001021,1.9E-5,http://paytm.com:80/,0.001068,2015-07-22 11:08:54.957,0,1
+2015-07-22 11:12:36.783,107.167.103.224,2.5E-5,0.002162,2.1E-5,https://paytm.com:443/styles/app.css,0.0022079998,2015-07-22 11:10:42.239,0,1
+2015-07-22 11:16:31.491,107.167.103.224,2.4E-5,0.002916,2.3E-5,https://paytm.com:443/styles/app.css,0.002963,2015-07-22 11:12:36.783,0,1
+2015-07-22 11:19:40.485,107.167.103.224,2.4E-5,0.067105,2.2E-5,https://paytm.com:443/checkout,0.067151,2015-07-22 11:16:31.491,0,1
+2015-07-22 10:45:02.284,107.167.107.28,3.4E-5,0.003391,2.2E-5,https://paytm.com:443/styles/app.css,0.003447,,1,1
+2015-07-22 10:51:23.778,107.167.107.28,2.6E-5,0.004299,2.6E-5,https://paytm.com:443/emami?utm_source=Affiliates&utm_medium=VCOMM&utm_campaign=VCOMM&utm_term=affiliate-id,0.0043510003,2015-07-22 10:45:02.284,0,1
+2015-07-22 10:52:35.324,107.167.107.28,2.5E-5,0.004039,2.1E-5,https://paytm.com:443/,0.0040849997,2015-07-22 10:51:23.778,0,1
+2015-07-22 11:00:30.055,107.167.107.28,2.6E-5,0.001077,2.3E-5,https://paytm.com:443/favicon.ico,0.001126,2015-07-22 10:52:35.324,0,1
+2015-07-22 16:14:52.561,107.167.108.175,2.8E-5,0.651373,2.2E-5,https://paytm.com:443/paytmcash,0.65142304,,1,1
+2015-07-22 16:16:52.995,107.167.108.175,2.4E-5,0.069747,2.2E-5,https://paytm.com:443/paytmcash,0.069793,2015-07-22 16:14:52.561,0,1
+2015-07-22 16:17:18.208,107.167.108.175,2.7E-5,0.002819,2.0E-5,https://paytm.com:443/settings,0.002866,2015-07-22 16:16:52.995,0,1
+2015-07-22 16:17:30.359,107.167.108.175,2.6E-5,0.03469,2.0E-5,https://paytm.com:443/summary/1117840272,0.034736,2015-07-22 16:17:18.208,0,1
+2015-07-22 16:19:04.339,107.167.108.175,2.5E-5,0.089338,2.1E-5,https://paytm.com:443/paytmcash,0.089384,2015-07-22 16:17:30.359,0,1
+2015-07-22 16:21:05.801,107.167.108.175,2.8E-5,0.032688,1.6E-5,https://paytm.com:443/code?code=5ce8a4cd-16d5-4b05-bf3b-18e102f861f4,0.032732,2015-07-22 16:19:04.339,0,1
+2015-07-22 16:21:57.488,107.167.108.175,2.5E-5,0.241135,2.0E-5,https://paytm.com:443/checkout,0.24118,2015-07-22 16:21:05.801,0,1
+2015-07-22 16:26:26.312,107.167.108.175,2.4E-5,0.001147,2.1E-5,https://paytm.com:443/styles/app.css,0.001192,2015-07-22 16:21:57.488,0,1
+2015-07-22 16:27:18.774,107.167.108.175,2.4E-5,0.002204,2.1E-5,https://paytm.com:443/settings,0.002249,2015-07-22 16:26:26.312,0,1
+2015-07-22 16:28:48.57,107.167.108.175,2.3E-5,0.088628,2.2E-5,https://paytm.com:443/checkout,0.088673,2015-07-22 16:27:18.774,0,1
+2015-07-22 16:30:25.161,107.167.108.175,2.8E-5,0.669789,3.8E-5,https://paytm.com:443/paytmcash,0.66985506,2015-07-22 16:28:48.57,0,1
+2015-07-22 16:30:57.426,107.167.108.175,2.5E-5,0.030093,2.0E-5,https://paytm.com:443/code?code=30a48180-8768-4800-816f-3c818934a528,0.030137999,2015-07-22 16:30:25.161,0,1
+2015-07-22 18:12:58.372,107.167.108.175,2.5E-5,3.57E-4,2.3E-5,http://www.paytm.com:80/,4.05E-4,2015-07-22 16:30:57.426,1,2
+2015-07-22 07:01:05.801,107.167.108.90,2.8E-5,0.001997,2.3E-5,https://paytm.com:443/styles/app.css,0.002048,,1,1
+2015-07-22 07:07:54.527,107.167.108.90,2.5E-5,0.099621,2.1E-5,https://paytm.com:443/shop/p/apple-mf840hn-a-macbook-pro-core-i5-8-gb-256-gb-ssd-13-3-inch-os-x-yosemite-silver-LAPAPPLE-MF840HDUMM2025658041E9D_21258,0.099667,2015-07-22 07:01:05.801,0,1
+2015-07-22 21:09:29.059,107.167.108.90,2.7E-5,0.029776,2.1E-5,https://paytm.com:443/code?code=9d7892f7-fa9e-4d46-874a-659d846c99c4,0.029824,2015-07-22 07:07:54.527,1,2
+2015-07-22 21:17:03.042,107.167.108.90,3.0E-5,0.00563,2.2E-5,https://paytm.com:443/,0.0056820004,2015-07-22 21:09:29.059,0,2
+2015-07-22 21:18:07.555,107.167.108.90,2.5E-5,0.005771,2.1E-5,https://paytm.com:443/login,0.005817,2015-07-22 21:17:03.042,0,2
+2015-07-22 21:18:44.572,107.167.108.90,2.6E-5,0.682675,2.1E-5,https://paytm.com:443/paytmcash,0.682722,2015-07-22 21:18:07.555,0,2
+2015-07-22 21:22:17.985,107.167.108.90,2.3E-5,0.001963,2.3E-5,https://paytm.com:443/styles/app.css,0.002009,2015-07-22 21:18:44.572,0,2
+2015-07-22 21:22:35.76,107.167.108.90,2.5E-5,0.004241,2.2E-5,https://paytm.com:443/paytmcash,0.004288,2015-07-22 21:22:17.985,0,2
+2015-07-22 10:44:33.996,107.167.109.99,2.6E-5,0.007102,2.1E-5,https://paytm.com:443/shop/g/electronics/mobile-accessories/mobiles-accessories-store/c2/lowest-price-guaranteed,0.007149,,1,1
+2015-07-22 10:45:04.721,107.167.109.99,2.4E-5,0.004934,2.3E-5,https://paytm.com:443/shop/g/electronics/mobile-accessories/mobiles-accessories-store/c2/lowest-price-guaranteed,0.004981,2015-07-22 10:44:33.996,0,1
