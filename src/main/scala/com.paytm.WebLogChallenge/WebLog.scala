@@ -31,13 +31,16 @@ class WebLog extends WebLogHelper with Serializable {
     val sessionizedDF = getSessionizedDF(c_sqlContext, withSessionCounter)
 
     LOGR.warn("*********** Average Session Time ************")
-    getAverageSessionTime(c_sqlContext, sessionizedDF).show()
+    getAverageSessionTime(c_sqlContext, sessionizedDF)
+      .show()
 
     LOGR.warn("*********** Unique URL visits per session ************")
-    getUniqueURLVisits(c_sqlContext, sessionizedDF).show()
+    getUniqueURLVisits(c_sqlContext, sessionizedDF)
+      .show()
 
     LOGR.warn("*********** Most engaged users ************")
-    getMostEngagedUsers(c_sqlContext, sessionizedDF).show()
+    getMostEngagedUsers(c_sqlContext, sessionizedDF)
+      .show()
 
     stopSparkContext()
   }
@@ -88,21 +91,26 @@ class WebLog extends WebLogHelper with Serializable {
 
     import sqlContext.implicits._
 
-    df.agg(((unix_timestamp(max($"timestamp")) - unix_timestamp(min($"timestamp")) ) / countDistinct($"session_id"))
+    df
+      .agg(((unix_timestamp(max($"timestamp")) - unix_timestamp(min($"timestamp")) ) / countDistinct($"session_id"))
       .alias("average_session_time"))
   }
 
   def getUniqueURLVisits(sqlContext: SQLContext, df: DataFrame): DataFrame = {
 
-    df.groupBy("session_id").agg(countDistinct("request").alias("unique_url_visits"))
+    df
+      .groupBy("session_id")
+      .agg(countDistinct("request").alias("unique_url_visits"))
   }
 
   def getMostEngagedUsers(sqlContext: SQLContext, df: DataFrame): DataFrame = {
 
     import sqlContext.implicits._
 
-    df.groupBy("client", "session_id").agg((unix_timestamp(max($"timestamp")) - unix_timestamp(min($"timestamp")))
-      .alias("most_engaged_users")).orderBy(desc("most_engaged_users"))
+    df
+      .groupBy("client", "session_id")
+      .agg((unix_timestamp(max($"timestamp")) - unix_timestamp(min($"timestamp"))).alias("most_engaged_users"))
+      .orderBy(desc("most_engaged_users"))
   }
 
 }
